@@ -5,6 +5,7 @@ import App from './App';
 import HomePage from './pages/HomePage';
 import StopPage from './pages/StopPage';
 import MapWalkPage from './pages/MapWalkPage';
+import IntroPage from './pages/IntroPage';
 import './styles/main.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -15,6 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/" element={<HomePage />} />
           <Route path="/stop/:id" element={<StopPage />} />
           <Route path="/map" element={<MapWalkPage />} />
+          <Route path="/intro" element={<IntroPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>
       </Routes>

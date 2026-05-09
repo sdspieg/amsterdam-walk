@@ -30,6 +30,7 @@ export default function Hero() {
           <Link className="cta cta--primary" to={`/stop/${stops[0]?.id}`}>
             Begin the walk <span className="cta__arrow" aria-hidden="true">→</span>
           </Link>
+          <Link className="cta cta--secondary" to="/intro">▷ Watch intro</Link>
           <Link className="cta cta--secondary" to="/map">Open the map</Link>
         </div>
       </div>
