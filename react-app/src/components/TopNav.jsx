@@ -39,9 +39,28 @@ export default function TopNav() {
     return () => window.removeEventListener('keydown', onKey);
   }, [stopIdx, tocOpen]);
 
+  /* Topnav visibility:
+     - Home page: hidden until hero scrolls past, then is-visible.
+     - All other routes: always is-visible. */
+  const isHome = location.pathname === '/';
+  const [pastHero, setPastHero] = useState(false);
+  useEffect(() => {
+    if (!isHome) { setPastHero(false); return; }
+    function onScroll() {
+      const heroEl = document.querySelector('.hero');
+      if (!heroEl) { setPastHero(true); return; }
+      const rect = heroEl.getBoundingClientRect();
+      setPastHero(rect.bottom < 80);
+    }
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, [isHome, location.pathname]);
+  const navVisible = !isHome || pastHero;
+
   return (
     <>
-      <nav className="topnav" aria-label="Walk navigation">
+      <nav className={'topnav' + (navVisible ? ' is-visible' : '')} aria-label="Walk navigation">
         <Link to="/" className="topnav__brand" aria-label="Back to start">
           <span className="topnav__brand-mark" aria-hidden="true">⌂</span>
           <span className="topnav__brand-text">Amsterdam Walk</span>

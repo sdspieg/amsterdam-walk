@@ -3,14 +3,14 @@ import { createContext, useContext, useState, useCallback } from 'react';
 const LightboxContext = createContext(null);
 
 export function LightboxProvider({ children }) {
-  const [state, setState] = useState({ open: false, stop: null, index: 0 });
+  const [state, setState] = useState({ isOpen: false, stop: null, index: 0 });
 
-  const open = useCallback((stop, index = 0) => {
-    setState({ open: true, stop, index });
+  const openLightbox = useCallback((stop, index = 0) => {
+    setState({ isOpen: true, stop, index });
     document.body.style.overflow = 'hidden';
   }, []);
-  const close = useCallback(() => {
-    setState(s => ({ ...s, open: false }));
+  const closeLightbox = useCallback(() => {
+    setState(s => ({ ...s, isOpen: false }));
     document.body.style.overflow = '';
   }, []);
   const setIndex = useCallback((index) => {
@@ -18,7 +18,14 @@ export function LightboxProvider({ children }) {
   }, []);
 
   return (
-    <LightboxContext.Provider value={{ ...state, open, close, setIndex }}>
+    <LightboxContext.Provider value={{
+      isOpen: state.isOpen,
+      stop: state.stop,
+      index: state.index,
+      open: openLightbox,
+      close: closeLightbox,
+      setIndex,
+    }}>
       {children}
     </LightboxContext.Provider>
   );

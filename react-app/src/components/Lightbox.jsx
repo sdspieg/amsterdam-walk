@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import { useLightbox } from './LightboxContext';
 
 export default function Lightbox() {
-  const { open, stop, index, close, setIndex } = useLightbox();
+  const { isOpen, stop, index, close, setIndex } = useLightbox();
   const stageRef = useRef(null);
   const touchStart = useRef(null);
   const gallery = stop?.media?.gallery || [];
@@ -11,7 +11,7 @@ export default function Lightbox() {
 
   /* Keyboard */
   useEffect(() => {
-    if (!open) return;
+    if (!isOpen) return;
     function onKey(ev) {
       if (ev.key === 'Escape') { close(); ev.preventDefault(); }
       else if (ev.key === 'ArrowLeft') { setIndex((index - 1 + total) % total); ev.preventDefault(); }
@@ -20,7 +20,7 @@ export default function Lightbox() {
     }
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [open, index, total]);
+  }, [isOpen, index, total]);
 
   function toggleFullscreen() {
     const el = stageRef.current?.parentElement;
@@ -46,7 +46,7 @@ export default function Lightbox() {
     touchStart.current = null;
   }
 
-  if (!open || !stop) return null;
+  if (!isOpen || !stop) return null;
 
   return (
     <div className="lightbox is-open" role="dialog" aria-modal="true" aria-label="Fullscreen slideshow">
