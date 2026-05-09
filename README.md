@@ -4,40 +4,78 @@ A memorial walking guide through Anne Frank's Amsterdam — Jewish history, Nazi
 
 **Live site:** [amsterdam-walk.rubase.org](https://amsterdam-walk.rubase.org/)
 
-## What's in this repo
+## Two implementations side-by-side
 
-This repo holds two implementations side-by-side:
+| Branch | Stack | Status |
+|---|---|---|
+| `main` (tag `v1.0-static`) | Vanilla HTML + CSS + JS, no build step. Single-page scroll. | Reference / archive |
+| `react` (current default for live deployment) | Vite + React 18 + React Router 6. Per-stop URL routes (`/stop/:id`), client-side navigation, no auto-scroll between stops. | Live |
 
-- **`v1.0-static/`** (tagged `v1.0-static` in git) — the original single-page static HTML/CSS/JS site. No build step. Deployed and live.
-- **`react/` branch** — Vite + React SPA with per-stop URL routes (in progress).
-
-## Static site (v1)
+## Static v1 — root of `main`
 
 ```
 index.html               Single-page entry
-assets/css/style.css     All styles (HCSS navy + gold palette)
-assets/js/app.js         Map, slideshow, top nav, scroll-sync, keyboard
+assets/css/style.css     All styles
+assets/js/app.js         Map, slideshow, top nav, scroll-sync
 assets/js/data-loader.js Renders stops from data/stops.json
 assets/img/              Hero images (one per stop)
 assets/img/gallery/      Slideshow images (4-8 per stop)
 data/stops.json          17 stops, fact-checked, sourced
-deploy/deploy.sh         rsync to /stratbase/apps/webapps/amsterdam-walk on the
-                         RuBase server (138.201.62.161)
+deploy/deploy.sh         rsync deploy
 deploy/nginx.*.conf      nginx vhost
 ```
 
-### Local dev
-
+Local dev:
 ```bash
 python3 -m http.server 8765
 # open http://127.0.0.1:8765/
 ```
 
-### Deploy
+## React v2 — `react-app/`
 
-```bash
-./deploy/deploy.sh
 ```
+react-app/
+  package.json
+  vite.config.js
+  index.html             Vite entry
+  src/
+    main.jsx             Router setup
+    App.jsx              Layout (topnav + outlet + footer)
+    data/
+      stops.json         17 stops
+      index.js           Data normalizer
+    components/
+      TopNav, TocDrawer, Footer, Hero, MapView,
+      Slideshow, Lightbox, LightboxContext,
+      Fact, SourcePill
+    pages/
+      HomePage           (/)
+      StopPage           (/stop/:id)
+      MapWalkPage        (/map)
+    styles/main.css
+  public/assets/img/...  Hero + gallery images
+  deploy.sh              Builds and rsyncs dist/ to server
+```
+
+Local dev:
+```bash
+cd react-app
+npm install
+npm run dev
+# open http://localhost:5173/
+```
+
+Deploy:
+```bash
+cd react-app
+./deploy.sh
+```
+
+## Routes
+
+- `/` — Hero, map preview, "Five years of occupation" context panel, index of all 17 stops
+- `/stop/:id` — Single stop view (sticky media image, summary, fact-checked claims with hyperlinked sources, slideshow with full-screen viewer, prev/next nav)
+- `/map` — Fullscreen map walk with side panel; click any pin to update the panel
 
 ## Content
 
