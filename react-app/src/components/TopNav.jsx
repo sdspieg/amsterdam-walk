@@ -26,7 +26,8 @@ export default function TopNav() {
   /* Keyboard shortcuts */
   useEffect(() => {
     function onKey(ev) {
-      if (ev.target.matches('input, textarea, [contenteditable]')) return;
+      const t = ev.target;
+      if (t && typeof t.matches === 'function' && t.matches('input, textarea, [contenteditable]')) return;
       if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
       if (tocOpen) return;
       if (ev.key === 'j' || ev.key === 'J' || ev.key === 'ArrowDown') { go(+1); ev.preventDefault(); }

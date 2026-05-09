@@ -19,7 +19,7 @@ export default function StopPage() {
   const heroImg = stop.media?.hero_image;
 
   return (
-    <article className="stop" id={stop.id}>
+    <article className={'stop ' + (stop.number % 2 === 0 ? 'stop--alt' : '')} id={stop.id}>
       <span className="stop__numeral" aria-hidden="true">{numStr}</span>
 
       <div className="stop__media">

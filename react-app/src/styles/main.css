@@ -1316,16 +1316,19 @@ body.map-walk-active .topnav { transform: translateY(-110%); }
 
 /* Alternate every other stop — flip visually with rtl, keep same columns
    so content always lands in the wide track and numeral in the narrow one. */
-.stop:nth-of-type(even) {
+.stop:nth-of-type(even),
+.stop.stop--alt {
   direction: rtl;
 }
-.stop:nth-of-type(even) > * {
+.stop:nth-of-type(even) > *,
+.stop.stop--alt > * {
   direction: ltr;
 }
 
 @media (max-width: 900px) {
   .stop,
-  .stop:nth-of-type(even) {
+  .stop:nth-of-type(even),
+  .stop.stop--alt {
     grid-template-columns: 1fr;
     direction: ltr;
     gap: 24px;
@@ -1363,7 +1366,8 @@ body.map-walk-active .topnav { transform: translateY(-110%); }
   white-space: nowrap;
   overflow: visible;
 }
-.stop:nth-of-type(even) .stop__numeral {
+.stop:nth-of-type(even) .stop__numeral,
+.stop.stop--alt .stop__numeral {
   margin-left: 0;
   margin-right: -0.15em;
   text-align: right;
@@ -1474,12 +1478,14 @@ body.map-walk-active .topnav { transform: translateY(-110%); }
 .stop__content {
   max-width: 580px;
 }
-.stop:nth-of-type(even) .stop__content {
+.stop:nth-of-type(even) .stop__content,
+.stop.stop--alt .stop__content {
   margin-left: auto;
 }
 @media (max-width: 900px) {
   .stop__content { max-width: 100%; }
-  .stop:nth-of-type(even) .stop__content { margin-left: 0; }
+  .stop:nth-of-type(even) .stop__content,
+  .stop.stop--alt .stop__content { margin-left: 0; }
 }
 
 .stop__overline {
