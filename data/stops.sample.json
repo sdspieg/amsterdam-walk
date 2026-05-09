@@ -1,0 +1,95 @@
+{
+  "title": "Katherine's Amsterdam Walk",
+  "subtitle": "Through Anne Frank's neighborhood — and the city's memory of occupation, deportation, and resistance.",
+  "intro": "This walk traces a route through central Amsterdam to sites that bear witness to Jewish life before the war, the Nazi occupation of 1940 to 1945, the resistance, and the work of remembrance that continues to this day. Each stop pairs a physical place with a fragment of history, sourced from the institutions that hold it: Anne Frank House, NIOD, Joods Cultureel Kwartier, and the Verzetsmuseum.",
+  "starting_point": {"address": "Westermarkt 4 (Anne Frank House)", "coords": [52.37520, 4.88393]},
+  "stops": [
+    {
+      "id": "anne-frank-house",
+      "number": 1,
+      "title": "Anne Frank House",
+      "title_nl": "Anne Frank Huis",
+      "subtitle": "Prinsengracht 263 · the Secret Annex",
+      "address": "Prinsengracht 263-267, 1016 GV Amsterdam",
+      "coords": [52.37520, 4.88393],
+      "summary": "The canal house where Otto Frank's family hid from July 1942 to August 1944, alongside the van Pels family and Fritz Pfeffer. Eight people lived in the Secret Annex behind a movable bookcase. After the betrayal and arrest, only Otto returned. He published Anne's diary in 1947.",
+      "facts": [
+        {
+          "claim": "The Frank family went into hiding on 6 July 1942.",
+          "verified": true,
+          "amplification": "Margot Frank had received a call-up letter for a labor camp three days earlier. The family moved into the prepared annex behind Otto Frank's spice and pectin business at Prinsengracht 263.",
+          "sources": [
+            {"title": "Anne Frank House — timeline", "url": "https://www.annefrank.org/en/anne-frank/main-events/"}
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": null,
+        "gallery": [],
+        "videos": []
+      },
+      "resources": [
+        {"title": "Anne Frank House (official site)", "url": "https://www.annefrank.org/"}
+      ]
+    },
+    {
+      "id": "homo-monument",
+      "number": 2,
+      "title": "Homo Monument",
+      "title_nl": "Homomonument",
+      "subtitle": "Karin Daan · 1987",
+      "address": "Westermarkt, 1016 Amsterdam",
+      "coords": [52.37416, 4.88472],
+      "summary": "Three pink granite triangles, set into a larger fourth triangle, commemorate gay men and women persecuted by the Nazis and others throughout history. The world's first major monument of its kind, completed in 1987.",
+      "facts": [
+        {
+          "claim": "Designed by artist Karin Daan and completed in 1987.",
+          "verified": true,
+          "amplification": "The monument was inaugurated on 5 September 1987. Daan won an open competition organized by the Stichting Homomonument.",
+          "sources": [
+            {"title": "Homomonument (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Homomonument"}
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": null,
+        "gallery": [],
+        "videos": []
+      },
+      "resources": [
+        {"title": "Amsterdam Museum entry", "url": "https://www.amsterdam.nl/en/arts-culture/monuments/homomonument/"}
+      ]
+    },
+    {
+      "id": "national-monument-dam",
+      "number": 3,
+      "title": "National Monument on the Dam",
+      "title_nl": "Nationaal Monument op de Dam",
+      "subtitle": "J.J.P. Oud & John Rädecker · 1956",
+      "address": "Dam, 1012 JS Amsterdam",
+      "coords": [52.37290, 4.89292],
+      "summary": "A 22-meter pylon erected in 1956 to commemorate Dutch victims of the Second World War and to mark the country's liberation. Each year on 4 May at 20:00, the Netherlands observes two minutes of silence here, attended by the King and Queen.",
+      "facts": [
+        {
+          "claim": "Now a site of memorial to victims of war and a monument to liberation and peace.",
+          "verified": true,
+          "amplification": "Urns set into the rear wall contain earth from execution sites in each of the twelve Dutch provinces and from the former Dutch East Indies, where Dutch and Indonesian people died under Japanese occupation.",
+          "sources": [
+            {"title": "Nationaal Comité 4 en 5 mei", "url": "https://www.4en5mei.nl/herdenken-en-vieren/nationaal-monument-op-de-dam"}
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": null,
+        "gallery": [],
+        "videos": []
+      },
+      "resources": [
+        {"title": "Nationaal Comité 4 en 5 mei", "url": "https://www.4en5mei.nl/"}
+      ]
+    }
+  ]
+}

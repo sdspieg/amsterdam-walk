@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Katherine's Amsterdam Walk · A memorial walking guide</title>
+  <meta name="description" content="A memorial walking guide through Anne Frank's Amsterdam — Jewish history, Nazi occupation, resistance, and remembrance. Seventeen stops, fully sourced." />
+  <meta name="theme-color" content="#0a1929" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Katherine's Amsterdam Walk" />
+  <meta property="og:description" content="A memorial walk through Anne Frank's Amsterdam." />
+  <meta property="og:type" content="website" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400&family=Inter+Tight:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Leaflet -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <!-- Skip link -->
+  <a class="skip-link" href="#stops">Skip to stops</a>
+
+  <!-- Persistent top nav -->
+  <nav class="topnav" id="topnav" aria-label="Walk navigation">
+    <a class="topnav__brand" href="#top" aria-label="Back to top">
+      <span class="topnav__brand-mark" aria-hidden="true">⌂</span>
+      <span class="topnav__brand-text">Amsterdam Walk</span>
+    </a>
+
+    <div class="topnav__here" id="topnav-here" aria-live="polite">
+      <span class="topnav__here-label">You're at</span>
+      <span class="topnav__here-num" id="topnav-here-num">—</span>
+      <span class="topnav__here-title" id="topnav-here-title">the start</span>
+    </div>
+
+    <div class="topnav__actions">
+      <button class="topnav__btn" id="topnav-toc" aria-label="Open all stops" aria-expanded="false" aria-controls="toc-drawer">
+        <span class="topnav__btn-icon" aria-hidden="true">≡</span>
+        <span class="topnav__btn-label">All stops</span>
+      </button>
+      <a class="topnav__btn topnav__btn--icon" id="topnav-map" href="#map" aria-label="Jump to map">
+        <span aria-hidden="true">◉</span>
+      </a>
+      <button class="topnav__btn topnav__btn--icon" id="topnav-prev" aria-label="Previous stop">
+        <span aria-hidden="true">‹</span>
+      </button>
+      <button class="topnav__btn topnav__btn--icon" id="topnav-next" aria-label="Next stop">
+        <span aria-hidden="true">›</span>
+      </button>
+    </div>
+
+    <div class="topnav__progress" id="topnav-progress" aria-hidden="true">
+      <span class="topnav__progress-fill" id="topnav-progress-fill"></span>
+    </div>
+  </nav>
+
+  <!-- TOC drawer (toggled from topnav) -->
+  <div class="toc-drawer" id="toc-drawer" hidden role="dialog" aria-modal="true" aria-labelledby="toc-heading">
+    <div class="toc-drawer__backdrop" id="toc-backdrop"></div>
+    <aside class="toc-drawer__panel">
+      <header class="toc-drawer__header">
+        <p class="overline">All stops</p>
+        <h2 id="toc-heading">The walk · seventeen stops</h2>
+        <button class="toc-drawer__close" id="toc-close" aria-label="Close">×</button>
+      </header>
+      <ol class="toc-drawer__list" id="toc-list"></ol>
+      <footer class="toc-drawer__footer">
+        <kbd>J</kbd> next · <kbd>K</kbd> previous · <kbd>M</kbd> map · <kbd>Esc</kbd> close
+      </footer>
+    </aside>
+  </div>
+
+  <span id="top" class="visually-hidden"></span>
+
+  <!-- Hero -->
+  <header class="hero" role="banner">
+    <div class="hero__backdrop" aria-hidden="true"></div>
+    <div class="hero__grain" aria-hidden="true"></div>
+    <div class="hero__lines" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+    </div>
+
+    <div class="hero__inner">
+      <p class="overline overline--gold">A walking guide</p>
+      <h1 class="hero__title">
+        <span class="hero__title-line">Katherine's</span>
+        <span class="hero__title-line hero__title-line--em"><em>Amsterdam</em> Walk</span>
+      </h1>
+      <p class="hero__subtitle" id="hero-subtitle">
+        Through Anne Frank's neighborhood — and the city's memory of occupation, deportation, and resistance.
+      </p>
+      <p class="hero__intro" id="hero-intro"></p>
+
+      <div class="hero__meta" aria-label="Walk overview">
+        <span class="hero__meta-item"><span class="hero__meta-value" id="meta-stops">17</span> stops</span>
+        <span class="hero__meta-divider" aria-hidden="true">·</span>
+        <span class="hero__meta-item"><span class="hero__meta-value">≈ 4</span> km</span>
+        <span class="hero__meta-divider" aria-hidden="true">·</span>
+        <span class="hero__meta-item"><span class="hero__meta-value">2 — 3</span> hours</span>
+      </div>
+
+      <div class="hero__cta-row">
+        <a class="cta cta--primary" href="#map">Begin the walk <span class="cta__arrow" aria-hidden="true">→</span></a>
+        <a class="cta cta--secondary" href="#stops">Skip to stop one</a>
+      </div>
+    </div>
+
+    <div class="hero__chrome">
+      <span class="hero__chrome-text">Amsterdam · 1940 — 1945 · ad memoriam</span>
+      <span class="hero__chrome-pulse" aria-hidden="true"></span>
+    </div>
+
+    <a class="hero__scroll-cue" href="#map" aria-label="Scroll to map">
+      <span></span>
+    </a>
+  </header>
+
+  <!-- Map section -->
+  <section class="map-section" id="map" aria-labelledby="map-heading">
+    <div class="map-section__inner">
+      <div class="map-section__heading">
+        <p class="overline">The route</p>
+        <h2 id="map-heading">From the Westerkerk to the Names Monument</h2>
+        <p class="map-section__sub">
+          A continuous walking route of about four kilometres through Amsterdam's centre,
+          Waterlooplein, and the Plantage quarter. Tap a pin or scroll the stops below;
+          the map keeps pace with you.
+        </p>
+      </div>
+
+      <div class="map-section__container">
+        <div id="leaflet-map" class="leaflet-map" aria-label="Map of the walking route"></div>
+        <div class="map-section__controls">
+          <button class="map-btn map-btn--primary" data-action="enter-walk-mode">
+            <span class="map-btn__icon" aria-hidden="true">⛶</span> Do the walk via the map
+          </button>
+          <button class="map-btn" data-action="fit-route">
+            <span class="map-btn__icon" aria-hidden="true">⤧</span> Fit to route
+          </button>
+          <button class="map-btn" data-action="show-current">
+            <span class="map-btn__icon" aria-hidden="true">◎</span> Locate me
+          </button>
+        </div>
+
+        <!-- Map-walk side panel (visible only when .is-walk-mode) -->
+        <aside class="map-walk-panel" id="map-walk-panel" aria-label="Stop details">
+          <header class="map-walk-panel__header">
+            <button class="map-walk-panel__exit" id="map-walk-exit" aria-label="Exit map walk">
+              <span aria-hidden="true">×</span>
+              <span class="map-walk-panel__exit-label">Exit</span>
+            </button>
+            <p class="map-walk-panel__progress" id="map-walk-progress">Pick a pin to begin</p>
+          </header>
+
+          <div class="map-walk-panel__body" id="map-walk-body">
+            <div class="map-walk-panel__placeholder">
+              <p class="overline">Map walk</p>
+              <h3>Click any pin on the map</h3>
+              <p>Each pin opens that stop's photograph, summary, and the chance to jump to its full entry on the page.</p>
+              <p class="map-walk-panel__hint">Use <kbd>‹</kbd> / <kbd>›</kbd> to step through stops in order.</p>
+            </div>
+          </div>
+
+          <footer class="map-walk-panel__footer" id="map-walk-footer" hidden>
+            <button class="map-walk-panel__nav-btn" id="map-walk-prev" aria-label="Previous stop">
+              <span aria-hidden="true">‹</span>
+              <span>Prev</span>
+            </button>
+            <a class="map-walk-panel__read-full" id="map-walk-read-full" href="#">
+              Read full stop ↓
+            </a>
+            <button class="map-walk-panel__nav-btn map-walk-panel__nav-btn--next" id="map-walk-next" aria-label="Next stop">
+              <span>Next</span>
+              <span aria-hidden="true">›</span>
+            </button>
+          </footer>
+        </aside>
+        <p class="map-section__credit">
+          Map tiles by <a href="https://carto.com/" rel="noopener" target="_blank">CARTO</a>,
+          data © <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a> contributors.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stops list -->
+  <main class="stops" id="stops" role="main">
+    <div class="stops__intro">
+      <p class="overline">The stops</p>
+      <h2 class="stops__intro-title">Seventeen places, four kilometres,<br />eighty-five years of memory.</h2>
+      <p class="stops__intro-body">
+        Each stop pairs a physical site with a passage of history. Every claim is hyperlinked
+        to its source — Anne Frank House, NIOD, the Joods Cultureel Kwartier, the Verzetsmuseum,
+        and the Holocaust Encyclopedia of the United States Holocaust Memorial Museum. Where the
+        original itinerary contained an error, you'll see a quiet correction note rather than silence.
+      </p>
+    </div>
+    <div id="stops-container">
+      <!-- populated by data-loader.js -->
+      <div class="stops__loading" id="stops-loading">
+        <span class="stops__loading-pulse" aria-hidden="true"></span>
+        Loading the route…
+      </div>
+    </div>
+  </main>
+
+  <!-- Sidebar progress rail -->
+  <aside class="rail" id="rail" aria-label="Walk progress" hidden>
+    <ol class="rail__list" id="rail-list"></ol>
+  </aside>
+
+  <!-- Footer -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="site-footer__rule" aria-hidden="true"></div>
+    <div class="site-footer__inner">
+      <div class="site-footer__col site-footer__col--lead">
+        <h3 class="site-footer__heading">In remembrance</h3>
+        <p>
+          Of the roughly 107,000 Jews deported from the Netherlands during the Nazi occupation,
+          some 5,200 survived. May their memory be a blessing.
+        </p>
+      </div>
+      <div class="site-footer__col">
+        <h3 class="site-footer__heading">Sources</h3>
+        <p>
+          Every claim on this page is hyperlinked to authoritative sources — Anne Frank House,
+          NIOD, the Joods Cultureel Kwartier, the Verzetsmuseum, the Anne Frank Stichting research
+          database, and the United States Holocaust Memorial Museum.
+        </p>
+      </div>
+      <div class="site-footer__col">
+        <h3 class="site-footer__heading">Credits</h3>
+        <p>
+          Original itinerary by Katherine. Fact-checking, sourcing, photography selection, and
+          interactive presentation by Claude. Photographs from
+          <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>
+          where indicated, attributed in line.
+        </p>
+      </div>
+      <div class="site-footer__col">
+        <h3 class="site-footer__heading">Walk</h3>
+        <p>
+          Map tiles by <a href="https://carto.com/" target="_blank" rel="noopener">CARTO</a>,
+          data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors. Built with
+          <a href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet</a>.
+        </p>
+      </div>
+    </div>
+    <div class="site-footer__date">
+      <span>Published <time datetime="2026">2026</time> · hosted on <code>amsterdam-walk.rubase.org</code></span>
+      <span>v0.1</span>
+    </div>
+  </footer>
+
+  <!-- Fullscreen slideshow -->
+  <div class="lightbox" id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Fullscreen slideshow">
+    <header class="lightbox__bar">
+      <button class="lightbox__close" id="lightbox-close" aria-label="Close and resume the walk">
+        <span class="lightbox__close-arrow" aria-hidden="true">←</span>
+        <span class="lightbox__close-label">Back to the walk</span>
+      </button>
+      <div class="lightbox__title" id="lightbox-stop-title"></div>
+      <div class="lightbox__bar-actions">
+        <span class="lightbox__counter">
+          <span id="lightbox-counter-current">1</span>
+          <span class="lightbox__counter-sep">/</span>
+          <span id="lightbox-counter-total">8</span>
+        </span>
+        <button class="lightbox__icon-btn" id="lightbox-fullscreen" aria-label="Toggle browser fullscreen" title="Browser fullscreen">
+          <span aria-hidden="true">⛶</span>
+        </button>
+      </div>
+    </header>
+
+    <div class="lightbox__stage">
+      <button class="lightbox__nav lightbox__nav--prev" id="lightbox-prev" aria-label="Previous image">‹</button>
+      <figure class="lightbox__figure">
+        <img class="lightbox__img" id="lightbox-img" alt="" />
+      </figure>
+      <button class="lightbox__nav lightbox__nav--next" id="lightbox-next" aria-label="Next image">›</button>
+    </div>
+
+    <footer class="lightbox__caption" id="lightbox-caption">
+      <p class="lightbox__note" id="lightbox-note"></p>
+      <p class="lightbox__credit" id="lightbox-credit"></p>
+    </footer>
+  </div>
+
+  <!-- Keyboard hint -->
+  <div class="keyboard-hint" id="keyboard-hint" hidden>
+    <kbd>J</kbd> next stop · <kbd>K</kbd> previous · <kbd>M</kbd> map
+  </div>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script src="assets/js/data-loader.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

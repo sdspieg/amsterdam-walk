@@ -1,0 +1,19 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Node / build outputs (will appear when React app is added)
+node_modules/
+dist/
+.vite/
+*.log
+
+# Tana / scratch
+_tana_pending.md
+
+# Local env (credentials live in /mnt/g/My Drive/SYSTEM_CREDENTIALS.env, not in repo)
+.env
+.env.local
+*.env.local

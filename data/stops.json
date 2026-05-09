@@ -1,0 +1,2447 @@
+{
+  "title": "Katherine's Amsterdam Walk",
+  "subtitle": "A walk through Anne Frank's Amsterdam — Jewish history, Nazi occupation, resistance, remembrance",
+  "starting_point": {
+    "name": "Anne Frank House",
+    "address": "Westermarkt 20 (entrance) / Prinsengracht 263, 1016 GV Amsterdam",
+    "coords": [
+      52.37525,
+      4.88432
+    ],
+    "note": "The walking route begins at Westermarkt (Homomonument is on this same square, just steps away)."
+  },
+  "factcheck_notes": "Each 'facts' array contains the load-bearing claims either restated from the source doc or added during research. 'verified': true means the claim was confirmed against an authoritative source listed in 'sources'. 'corrections' lists errors found in the source doc. Where the doc and the historical record disagreed, this JSON follows the historical record.",
+  "stops": [
+    {
+      "id": "homo-monument",
+      "number": 1,
+      "title": "Homomonument",
+      "title_nl": "Homomonument",
+      "subtitle": "Karin Daan, unveiled 5 September 1987",
+      "address": "Westermarkt, 1016 DH Amsterdam (next to the Westerkerk)",
+      "coords": [
+        52.37444,
+        4.88486
+      ],
+      "summary": "The world's first major monument to commemorate gay men and lesbians persecuted because of their sexuality. Three pink granite triangles, each ten metres on a side, form the points of a much larger triangle picked out by a thin pink granite band in the pavement. Each smaller triangle points toward a different anchor in the city — the National Monument on the Dam, the Anne Frank House, and the offices of COC Nederland (the Dutch gay-rights organisation founded in 1946) — binding past, present and future to the urban fabric. The pink triangle quotes the badge that Nazi concentration camps used to mark men imprisoned for homosexuality.",
+      "facts": [
+        {
+          "claim": "Designed by Dutch artist Karin Daan; unveiled 5 September 1987.",
+          "verified": true,
+          "amplification": "Daan won an open competition (137 entries, judged 1980-81). The first stone was laid 28 April 1987 and the formal opening followed on 5 September 1987. The idea originated with activist Jef Last, who proposed a 'monument to the unknown gay' as early as 1961.",
+          "sources": [
+            {
+              "title": "Wikipedia: Homomonument",
+              "url": "https://en.wikipedia.org/wiki/Homomonument"
+            },
+            {
+              "title": "C20 Society — Building of the Month: Homomonument",
+              "url": "https://c20society.org.uk/building-of-the-month/homomonument-amsterdam"
+            }
+          ]
+        },
+        {
+          "claim": "Pink triangles cite the badge homosexuals (and bisexual men, transgender women) were forced to wear in Nazi concentration camps.",
+          "verified": true,
+          "amplification": "The badge was reclaimed in the 1970s as a symbol of gay liberation; Daan deliberately scaled the form up so that a casual passer-by — even a taxi driver standing in the middle of one — might not consciously read the shape, integrating remembrance into ordinary city life.",
+          "sources": [
+            {
+              "title": "World Heritage USA — Homomonument",
+              "url": "https://worldheritageusa.org/monumentstoolkit/publications/homomonument/"
+            }
+          ]
+        },
+        {
+          "claim": "Three triangles connected by a pink granite band that itself forms a fourth, larger triangle.",
+          "verified": true,
+          "amplification": "Each small triangle is 10 m on a side. One sits raised on a step, one is flush with the pavement, one slopes down to the Keizersgracht canal. The dedication reads: 'Commemorates all women and men ever oppressed and persecuted because of their homosexuality… Demonstrates that we are not alone. Calls for permanent vigilance.'",
+          "sources": [
+            {
+              "title": "Wikipedia: Homomonument",
+              "url": "https://en.wikipedia.org/wiki/Homomonument"
+            }
+          ]
+        },
+        {
+          "claim": "The triangle pointing toward the canal symbolises the past (it points toward the National Monument on the Dam).",
+          "verified": true,
+          "amplification": "Daan oriented the three triangles deliberately as past, present, and future. The 'past' triangle points toward the Nationaal Monument on the Dam (commemorating WWII). The 'present' triangle points toward the Anne Frank House. The 'future' triangle points toward the headquarters of COC Nederland, the Dutch LGBT-rights organisation.",
+          "sources": [
+            {
+              "title": "Wikipedia: Homomonument",
+              "url": "https://en.wikipedia.org/wiki/Homomonument"
+            },
+            {
+              "title": "Couple of Men — Pink Point & Homomonument",
+              "url": "https://coupleofmen.com/38368-pink-point-homomonument-amsterdam/"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/homo-monument.jpg",
+          "credit": "Wikipedia (en) — Homomonument (CC license — see source)",
+          "source_url": "https://en.wikipedia.org/wiki/Homomonument",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Homomonumentwestermarkt.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/homo-monument-00.jpg",
+            "credit": "Rob Croes / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Eerste_paal_voor_het_homomonument_in_Keizersgracht_bij_Westerkerk_Amsterdam_gesl,_Bestanddeelnr_933-9645.jpg",
+            "alt": "Construction crew driving the first pile for the Homomonument by the Westerkerk on 28 April 1987.",
+            "note": "The first foundation pile is driven into the Keizersgracht on 28 April 1987, with the Westerkerk tower visible above. The project had taken nearly seven years to move from a 1980 design competition to ground-breaking. Photo by Anefo press photographer Rob Croes.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eerste_paal_voor_het_homomonument_in_Keizersgracht_bij_Westerkerk_Amsterdam_gesl%2C_Bestanddeelnr_933-9645.jpg/1280px-Eerste_paal_voor_het_homomonument_in_Keizersgracht_bij_Westerkerk_Amsterdam_gesl%2C_Bestanddeelnr_933-9645.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-01.jpg",
+            "credit": "Rob Bogaerts / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Bouw_Homo-monument_op_Westermarkt_Amsterdam,_Bestanddeelnr_934-0517.jpg",
+            "alt": "Construction of the pink granite Homomonument under way on Westermarkt, August 1987.",
+            "note": "The Homomonument under construction in August 1987, weeks before its unveiling. Karin Daan's design uses three pink granite triangles, each ten metres on a side, set into the existing pavement so that pedestrians often cross it without realising. Photo by Anefo's Rob Bogaerts.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bouw_Homo-monument_op_Westermarkt_Amsterdam%2C_Bestanddeelnr_934-0517.jpg/1280px-Bouw_Homo-monument_op_Westermarkt_Amsterdam%2C_Bestanddeelnr_934-0517.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-02.jpg",
+            "credit": "Bart Molendijk / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Morgen_wordt_Homomonument_bij_Westerkerk_onthuld,_Bestanddeelnr_934-0680.jpg",
+            "alt": "Westermarkt the day before the Homomonument was unveiled, 4 September 1987.",
+            "note": "Westermarkt on 4 September 1987 — the day before the unveiling. The Homomonument was the world's first national monument to commemorate gay and lesbian victims of persecution. Anefo press photo by Bart Molendijk.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Morgen_wordt_Homomonument_bij_Westerkerk_onthuld%2C_Bestanddeelnr_934-0680.jpg/1280px-Morgen_wordt_Homomonument_bij_Westerkerk_onthuld%2C_Bestanddeelnr_934-0680.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-03.jpg",
+            "credit": "Bart Molendijk / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Homomonument_bij_Westerkerk,_Amsterdam,_Bestanddeelnr_934-0689.jpg",
+            "alt": "The newly unveiled Homomonument beside the Westerkerk, September 1987.",
+            "note": "The completed monument photographed two days after its unveiling, September 1987. The triangle pointing toward the Westerkerk also points obliquely toward the Anne Frank House, just one canal block away — the 'present' arm of Daan's three-direction memorial.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Homomonument_bij_Westerkerk%2C_Amsterdam%2C_Bestanddeelnr_934-0689.jpg/1280px-Homomonument_bij_Westerkerk%2C_Amsterdam%2C_Bestanddeelnr_934-0689.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-04.jpg",
+            "credit": "Hnapel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Homomonument_01.jpg",
+            "alt": "The pink-granite step of the Homomonument descending toward the Keizersgracht.",
+            "note": "The 'past' triangle of the monument slopes down to the Keizersgracht canal and is regularly strewn with flowers — particularly on Liberation Day (5 May) and during Pride. The Dutch dedication reads 'Naar vriendschap zulk een mateloos verlangen' ('Such an immeasurable longing for friendship'), a line from a poem by Jacob Israël de Haan.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Amsterdam_Homomonument_01.jpg/1280px-Amsterdam_Homomonument_01.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-05.jpg",
+            "credit": "Derek Blackadder from Cobourg, ON, Canada (CC BY-SA 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam-Homomonument-04.jpg",
+            "alt": "Detail of one of the raised pink-granite triangles of the Homomonument.",
+            "note": "A close view of one of the three smaller triangles. Each apex points to a different anchor: the National Monument on the Dam (past), the Anne Frank House (present), and the headquarters of COC Nederland — the world's oldest still-operating LGBT rights organisation, founded in 1946 (future).",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Amsterdam-Homomonument-04.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-06.jpg",
+            "credit": "InSapphoWeTrust from Los Angeles, California, USA (CC BY-SA 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Homomonument_(5525278808).jpg",
+            "alt": "Pink granite triangle of the Homomonument near the Anne Frank House.",
+            "note": "The monument quotes the pink triangle that Nazi concentration camps used to mark men imprisoned under Paragraph 175. Of an estimated 5,000–15,000 men sent to camps with the pink triangle, around 60 per cent did not survive.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Homomonument_%285525278808%29.jpg/1280px-Homomonument_%285525278808%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/homo-monument-07.jpg",
+            "credit": "eric molina (CC BY 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Homomonument_2011_eric_molina.jpg",
+            "alt": "Visitors and floral tributes on the Homomonument, 2011.",
+            "note": "Floral tributes on the monument in 2011. Karin Daan deliberately scaled the triangles up so that the form remains slightly hidden in plain sight: many passers-by stand on it without recognising what it is — an aesthetic choice meant to weave remembrance into everyday city life rather than wall it off.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amsterdam_Homomonument_2011_eric_molina.jpg/1280px-Amsterdam_Homomonument_2011_eric_molina.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia (English): Homomonument",
+          "url": "https://en.wikipedia.org/wiki/Homomonument"
+        },
+        {
+          "title": "Twentieth Century Society — Building of the Month",
+          "url": "https://c20society.org.uk/building-of-the-month/homomonument-amsterdam"
+        },
+        {
+          "title": "World Heritage USA monuments toolkit entry",
+          "url": "https://worldheritageusa.org/monumentstoolkit/publications/homomonument/"
+        },
+        {
+          "title": "Wikimedia Commons category",
+          "url": "https://commons.wikimedia.org/wiki/Category:Homomonument_in_Amsterdam"
+        }
+      ]
+    },
+    {
+      "id": "anne-frank-house",
+      "number": 2,
+      "title": "Anne Frank House",
+      "title_nl": "Anne Frank Huis",
+      "subtitle": "Hiding place 1942-44, museum since 1960",
+      "address": "Prinsengracht 263-267 (entrance Westermarkt 20), 1016 GV Amsterdam",
+      "coords": [
+        52.37525,
+        4.88432
+      ],
+      "summary": "The 17th-century canal house where Anne Frank, her family and four others hid for two years and one month in the Achterhuis (Secret Annex) behind a swinging bookcase. Otto Frank had moved his Opekta and Pectacon companies to the front building in 1940. The eight in hiding were betrayed and arrested on 4 August 1944; only Otto survived. Anne's diary was preserved by his secretary Miep Gies and first published in 1947. After a 1955 demolition threat, public advocacy and the Anne Frank Stichting (1957) saved the building; it opened as a museum on 3 May 1960.",
+      "facts": [
+        {
+          "claim": "Anne Frank, her family, and four others hid in the Secret Annex from 6 July 1942 to 4 August 1944.",
+          "verified": true,
+          "amplification": "The eight hidden persons were Otto, Edith, Margot and Anne Frank; Hermann, Auguste and Peter van Pels; and the dentist Fritz Pfeffer. They were aided by Miep Gies, Bep Voskuijl, Johannes Kleiman, and Victor Kugler. Of the eight, only Otto Frank survived.",
+          "sources": [
+            {
+              "title": "Wikipedia: Anne Frank House",
+              "url": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+            },
+            {
+              "title": "Anne Frank House — Practical info",
+              "url": "https://www.annefrank.org/en/museum/practical-information/"
+            }
+          ]
+        },
+        {
+          "claim": "The building dates to 1635.",
+          "verified": true,
+          "amplification": "Built in 1635 by Dirk van Delft. Otto Frank moved Opekta and Pectacon there 1 December 1940. The museum opened to the public 3 May 1960; today it occupies Prinsengracht 263, 265 and 267.",
+          "sources": [
+            {
+              "title": "Wikipedia: Anne Frank House",
+              "url": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/anne-frank-house.jpg",
+          "credit": "Via Wikipedia (en.wikipedia.org, file in Wikimedia Commons)",
+          "source_url": "https://en.wikipedia.org/wiki/Anne_Frank_House",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/3840px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/anne-frank-house-00.jpg",
+            "credit": "Martin Furtschegger (CC BY 3.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Anne-Frank-Haus_und_Westerkerk_an_der_Prinsengracht,_Amsterdam_-_panoramio.jpg",
+            "alt": "The Anne Frank House on the Prinsengracht canal beside the Westerkerk tower.",
+            "note": "The Anne Frank House at Prinsengracht 263, with the Westerkerk's bell tower above. Anne wrote in her diary that the chimes of the Westerkerk bells were a small comfort during the 25 months in hiding (until they were melted down for the German war effort in 1944).",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Anne-Frank-Haus_und_Westerkerk_an_der_Prinsengracht%2C_Amsterdam_-_panoramio.jpg/1280px-Anne-Frank-Haus_und_Westerkerk_an_der_Prinsengracht%2C_Amsterdam_-_panoramio.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-01.jpg",
+            "credit": "Dietmar Rabich (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg",
+            "alt": "The black-painted ground floor of Anne Frank House on the Prinsengracht.",
+            "note": "The house Otto Frank rented for his pectin-and-spices business Opekta. The front section housed the offices and warehouse; the achterhuis (the back annex), accessed by a hidden door behind a moveable bookcase, sheltered eight people from 6 July 1942 until the betrayal on 4 August 1944.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/1280px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-02.jpg",
+            "credit": "Bungle (CC BY-SA 3.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:AnneFrankHouse_Bookcase.jpg",
+            "alt": "The hidden bookcase that concealed the entrance to the secret annex.",
+            "note": "The replica bookcase that concealed the entrance to the achterhuis. Office worker Bep Voskuijl's father Johan built the swing-shelf disguise in August 1942 so the door behind it would look like an ordinary office wall to the warehouse staff who were not let in on the secret.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/AnneFrankHouse_Bookcase.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-03.jpg",
+            "credit": "Hanno Lans (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Bookcase_Anne_Frank_House_01.jpg",
+            "alt": "The moveable bookcase opened, revealing the steep stairs to the secret annex.",
+            "note": "The same bookcase swung open to reveal the steep staircase leading up to the achterhuis. Eight people lived behind it: Otto, Edith, Margot and Anne Frank; Hermann, Auguste, and Peter van Pels; and the dentist Fritz Pfeffer. Only Otto survived.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bookcase_Anne_Frank_House_01.jpg/1280px-Bookcase_Anne_Frank_House_01.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-04.jpg",
+            "credit": "Photo Collection Anne Frank House (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Otto_Frank,_1936_-_31263325083.jpg",
+            "alt": "Otto Frank in 1936, three years after fleeing Frankfurt for Amsterdam.",
+            "note": "Otto Frank in 1936. The Frank family moved from Frankfurt to Amsterdam in 1933 after the Nazis came to power; Otto founded the Dutch branch of Opekta at Prinsengracht 263 the same year. He was the only one of the eight who survived; the rest, including Anne (15) and Margot (19), died in the camps in early 1945.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Otto_Frank%2C_1936_-_31263325083.jpg/1280px-Otto_Frank%2C_1936_-_31263325083.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-05.jpg",
+            "credit": "Jack de Nijs for Anefo (CC BY-SA 3.0 nl) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Miep_Gies_en_Otto_Frank_(1961).jpg",
+            "alt": "Otto Frank and Miep Gies at the Anne Frank House in 1961.",
+            "note": "Miep Gies and Otto Frank at the Anne Frank House in 1961. Gies — Otto's secretary at Opekta — was one of four helpers who kept the eight in hiding fed and supplied for 761 days. After the arrest she gathered Anne's scattered diary papers from the floor of the annex and kept them, unread, in her desk drawer until Otto returned from Auschwitz.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Miep_Gies_en_Otto_Frank_%281961%29.jpg/1280px-Miep_Gies_en_Otto_Frank_%281961%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-06.jpg",
+            "credit": "Rob Bogaerts / Anefo (CC BY-SA 3.0 nl) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Miep_Gies_(1987).jpg",
+            "alt": "Miep Gies in 1987, photographed at the Anne Frank House.",
+            "note": "Miep Gies in 1987 at the publication of her memoir 'Anne Frank Remembered'. Born in Vienna and sent to the Netherlands as a malnourished child after WWI, she became a Dutch citizen and worked for Otto Frank from 1933. She lived to 100, dying in 2010.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Miep_Gies_%281987%29.jpg/1280px-Miep_Gies_%281987%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/anne-frank-house-07.jpg",
+            "credit": "Rodrigo Galindez (CC BY 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg",
+            "alt": "A copy of Anne Frank’s diary on display at the Anne Frank Zentrum in Berlin.",
+            "note": "Anne's diary as it has been published in over 70 languages. She received the red-and-white-checked notebook for her thirteenth birthday on 12 June 1942 — three weeks before the family went into hiding. She rewrote much of the diary in 1944 after hearing a BBC radio appeal for wartime testimony, hoping to publish it as 'Het Achterhuis' after the war.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg"
+          }
+        ],
+        "videos": [
+          {
+            "title": "A virtual tour of the Anne Frank House (official, Anne Frank House)",
+            "youtube_id": "ce89Q2thz8E",
+            "source_url": "https://www.youtube.com/watch?v=ce89Q2thz8E"
+          },
+          {
+            "title": "Amsterdam | Episode 1 | Anne's story (Anne Frank House)",
+            "youtube_id": "eg6tAPtmsh8",
+            "source_url": "https://www.youtube.com/watch?v=eg6tAPtmsh8"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "Anne Frank House (official)",
+          "url": "https://www.annefrank.org/en/"
+        },
+        {
+          "title": "Anne Frank House — Timeline",
+          "url": "https://www.annefrank.org/en/timeline/"
+        },
+        {
+          "title": "Wikipedia: Anne Frank House",
+          "url": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+        }
+      ]
+    },
+    {
+      "id": "national-monument-dam",
+      "number": 3,
+      "title": "National Monument on the Dam",
+      "title_nl": "Nationaal Monument op de Dam",
+      "subtitle": "J.J.P. Oud (architect) & John Rädecker (sculptor), unveiled 4 May 1956",
+      "address": "Dam Square, 1012 NP Amsterdam",
+      "coords": [
+        52.37306,
+        4.89361
+      ],
+      "summary": "A 22-metre travertine-clad pillar designed by architect Jacobus Johannes Pieter (J.J.P.) Oud, with sculpture by John Rädecker (completed by his sons Han and Jan Willem after the elder Rädecker's death four months before unveiling) and a relief by Paul Grégoire. Queen Juliana unveiled it on 4 May 1956 — the eleventh anniversary of the Dutch liberation. Each 4 May at 20:00, the King and Queen lead the national two-minute silence here for those who died in WWII and in subsequent conflicts.",
+      "facts": [
+        {
+          "claim": "Amsterdam grew up around a dam built across the river Amstel around 1270.",
+          "verified": true,
+          "amplification": "The settlement is first documented in a 1275 toll exemption from Count Floris V to residents 'apud Amestelledamme' (at the dam in the Amstel). The dam itself stood roughly where Dam Square is today; the city's name comes from it.",
+          "sources": [
+            {
+              "title": "Wikipedia: Dam Square",
+              "url": "https://en.wikipedia.org/wiki/Dam_Square"
+            },
+            {
+              "title": "Britannica — History of Amsterdam",
+              "url": "https://www.britannica.com/place/Amsterdam/History"
+            }
+          ]
+        },
+        {
+          "claim": "Annual two-minute silence at 20:00 on 4 May (Remembrance Day), with the King and Queen attending.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Wikipedia: National Monument (Amsterdam)",
+              "url": "https://en.wikipedia.org/wiki/National_Monument_(Amsterdam)"
+            }
+          ]
+        },
+        {
+          "claim": "Four chained men on the front relief symbolise the suffering of war.",
+          "verified": true,
+          "amplification": "The front relief, titled 'De Vrede' (Peace), shows four chained male figures by John Rädecker. The two flanking sculptures of men — one with two howling dogs, one bearded — are read as the resistance of the working people and the resistance of the intellectuals respectively.",
+          "sources": [
+            {
+              "title": "Wikipedia: National Monument (Amsterdam)",
+              "url": "https://en.wikipedia.org/wiki/National_Monument_(Amsterdam)"
+            }
+          ]
+        },
+        {
+          "claim": "The dogs symbolise loyalty and grief; the woman with child and circling doves symbolise victory, freedom and new life.",
+          "verified": true,
+          "amplification": "Doves taking flight on the rear of the pillar signify liberation.",
+          "sources": [
+            {
+              "title": "Anne Frank House — National Monument on Dam Square",
+              "url": "https://www.annefrank.org/en/timeline/122/the-national-monument-on-dam-square/"
+            }
+          ]
+        },
+        {
+          "claim": "The wall behind contains twelve urns: one for each Dutch province, plus one for the Dutch East Indies (Indonesia).",
+          "verified": true,
+          "amplification": "Eleven urns hold soil from execution grounds and war cemeteries in each Dutch province; the twelfth holds soil from Indonesia, marking those who died in the former Dutch East Indies under Japanese occupation.",
+          "sources": [
+            {
+              "title": "Wikipedia: National Monument (Amsterdam)",
+              "url": "https://en.wikipedia.org/wiki/National_Monument_(Amsterdam)"
+            }
+          ]
+        },
+        {
+          "claim": "Latin inscription by classicist J.D. Meerwaldt.",
+          "verified": true,
+          "amplification": "Latin: 'Hic ubi cor patriae monumentum cordibus intus / quod gestant cives spectet ad astra dei.' English: 'Here, where the heart of the fatherland lies, may this monument — which the citizens carry in their innermost hearts — gaze at God's stars.'",
+          "sources": [
+            {
+              "title": "Wikipedia: National Monument (Amsterdam)",
+              "url": "https://en.wikipedia.org/wiki/National_Monument_(Amsterdam)"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/national-monument-dam.jpg",
+          "credit": "Wikipedia (nl) — Nationaal Monument op de Dam (CC license — see source page)",
+          "source_url": "https://nl.wikipedia.org/wiki/Nationaal%20Monument%20op%20de%20Dam",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Overzicht_voorzijde_-_Amsterdam_-_20357041_-_RCE.jpg/1920px-Overzicht_voorzijde_-_Amsterdam_-_20357041_-_RCE.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/national-monument-dam-00.jpg",
+            "credit": "Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Onthulling_Nationaal_Monument,_Bestanddeelnr_907-7384.jpg",
+            "alt": "Unveiling of the National Monument on the Dam by Queen Juliana, 4 May 1956.",
+            "note": "The unveiling of the National Monument on Remembrance Day, 4 May 1956. Queen Juliana pulled the cord that dropped the white veil from the 22-metre travertine column, eleven years and one day after the German surrender. The architect was J. J. P. Oud; the sculptor was John Rädecker.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Onthulling_Nationaal_Monument%2C_Bestanddeelnr_907-7384.jpg/1280px-Onthulling_Nationaal_Monument%2C_Bestanddeelnr_907-7384.jpg"
+          },
+          {
+            "url": "assets/img/gallery/national-monument-dam-01.jpg",
+            "credit": "Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Onthulling_Nationaal_Monument_op_de_Dam,_Bestanddeelnr_934-7154.jpg",
+            "alt": "Crowd on the Dam at the unveiling of the National Monument, 4 May 1956.",
+            "note": "The crowd on the Dam at the unveiling. Soil from each of the eleven Dutch provinces (and from the Dutch East Indies) was sealed inside the column's twelve urns; a thirteenth urn holds soil from Indonesia, added in 1950. The dedication is on Remembrance Day every 4 May.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Onthulling_Nationaal_Monument_op_de_Dam%2C_Bestanddeelnr_934-7154.jpg/1280px-Onthulling_Nationaal_Monument_op_de_Dam%2C_Bestanddeelnr_934-7154.jpg"
+          },
+          {
+            "url": "assets/img/gallery/national-monument-dam-02.jpg",
+            "credit": "Wim van Rossem for Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dodenherdenking_Oosterbegraafplaats_Amsterdam._Op_Dam_bij_Nationaal_Monument,_Bestanddeelnr_907-7425.jpg",
+            "alt": "Wreath-laying at the National Monument on the day of its unveiling, 4 May 1956.",
+            "note": "Wreath-laying at the newly-dedicated monument on the same day. The figures around the column are by Rädecker — chained men representing those killed in the camps, women mourning their dead, and sentinel dogs and doves around the central male figure. Twelve niches behind hold the urns of soil.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dodenherdenking_Oosterbegraafplaats_Amsterdam._Op_Dam_bij_Nationaal_Monument%2C_Bestanddeelnr_907-7425.jpg/1280px-Dodenherdenking_Oosterbegraafplaats_Amsterdam._Op_Dam_bij_Nationaal_Monument%2C_Bestanddeelnr_907-7425.jpg"
+          },
+          {
+            "url": "assets/img/gallery/national-monument-dam-03.jpg",
+            "credit": "Rob Mieremet / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Belangstellenden_leggen_bloemen_bij_het_Monument_op_de_Dam_tijdens_dodenherdenki,_Bestanddeelnr_926-3890.jpg",
+            "alt": "Visitors laying flowers at the National Monument during Remembrance Day, 4 May 1973.",
+            "note": "Public floral tributes at the monument on Remembrance Day, 4 May 1973. Each year on this date at 20:00 the entire country observes two minutes of silence; the ceremony at the Dam is broadcast live nationally and the King and Queen lay the first wreath.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Belangstellenden_leggen_bloemen_bij_het_Monument_op_de_Dam_tijdens_dodenherdenki%2C_Bestanddeelnr_926-3890.jpg/1280px-Belangstellenden_leggen_bloemen_bij_het_Monument_op_de_Dam_tijdens_dodenherdenki%2C_Bestanddeelnr_926-3890.jpg"
+          },
+          {
+            "url": "assets/img/gallery/national-monument-dam-04.jpg",
+            "credit": "Rob Bogaerts / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:(Her)_Intocht_van_Canadezen_die_Amsterdam_bevrijdden_op_Dam,_Bestanddeelnr_930-8141.jpg",
+            "alt": "Canadian veterans being welcomed back on the Dam, 5 May 1980 — the 35th anniversary of liberation.",
+            "note": "Canadian veterans return to Amsterdam on 5 May 1980, thirty-five years after the city's liberation. Canadian troops of the 1st Canadian Corps reached Amsterdam on 7 May 1945; the surrender of German forces in the Netherlands had been signed two days earlier in Wageningen.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%28Her%29_Intocht_van_Canadezen_die_Amsterdam_bevrijdden_op_Dam%2C_Bestanddeelnr_930-8141.jpg/1280px-%28Her%29_Intocht_van_Canadezen_die_Amsterdam_bevrijdden_op_Dam%2C_Bestanddeelnr_930-8141.jpg"
+          },
+          {
+            "url": "assets/img/gallery/national-monument-dam-05.jpg",
+            "credit": "Bert Verhoeff / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amerikaanse_kunstschilder_George_Yalick_schildert_op_Nationaal_monument_op_de_Da,_Bestanddeelnr_923-2821.jpg",
+            "alt": "Painter George Yalick at work in front of the National Monument on the Dam, 1970.",
+            "note": "American painter George Yalick at work on the monument in February 1970. The travertine column has become — together with the Anne Frank House and the Dokwerker — one of the three sites where Amsterdam's wartime memory is most concentrated.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Amerikaanse_kunstschilder_George_Yalick_schildert_op_Nationaal_monument_op_de_Da%2C_Bestanddeelnr_923-2821.jpg/1280px-Amerikaanse_kunstschilder_George_Yalick_schildert_op_Nationaal_monument_op_de_Da%2C_Bestanddeelnr_923-2821.jpg"
+          },
+          {
+            "url": "assets/img/gallery/national-monument-dam-06.jpg",
+            "credit": "Michielverbeek (CC BY-SA 3.0 nl) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Nationaal_Monument_op_de_Dam_RM530906_foto2_2014-01-12_11.19.jpg",
+            "alt": "The National Monument on the Dam today.",
+            "note": "The monument today. As a national rijksmonument (no. 530906) it is officially listed; the Royal Palace and Nieuwe Kerk stand directly across the square. The pink-granite triangle of the Homomonument — Stop 1 on this walk — points symbolically toward this column, binding the two memorials together.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Amsterdam%2C_Nationaal_Monument_op_de_Dam_RM530906_foto2_2014-01-12_11.19.jpg/1280px-Amsterdam%2C_Nationaal_Monument_op_de_Dam_RM530906_foto2_2014-01-12_11.19.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia: National Monument (Amsterdam)",
+          "url": "https://en.wikipedia.org/wiki/National_Monument_(Amsterdam)"
+        },
+        {
+          "title": "Anne Frank House — National Monument timeline page",
+          "url": "https://www.annefrank.org/en/timeline/122/the-national-monument-on-dam-square/"
+        },
+        {
+          "title": "Wikimedia Commons category",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nationaal_Monument_(Amsterdam)"
+        }
+      ]
+    },
+    {
+      "id": "groote-club-shooting",
+      "number": 4,
+      "title": "Site of the Groote Club shooting",
+      "title_nl": "Schietpartij op de Dam",
+      "subtitle": "7 May 1945 — the last killings of WWII in Amsterdam",
+      "address": "Dam Square (corner with Kalverstraat / Paleisstraat — the Groote Club building stood where the Industria building now houses De Bijenkorf-side shops)",
+      "coords": [
+        52.37322,
+        4.89328
+      ],
+      "summary": "Two days after the German surrender, Amsterdam was packed with people celebrating their liberation. Around 3 pm Kriegsmarine sailors quartered in the Groote Club building on the corner of the Dam opened fire on the crowd from the balcony with at least one machine gun. The shooting lasted roughly two hours. 32 civilians died (some immediately, several from their wounds in the following weeks); 100-120 were wounded. Major Carel Frederik Overhoff, commander of local Binnenlandse Strijdkrachten units, eventually entered the building with German Hauptmann Bergmann to halt the firing. The motive was never definitively established and there was never a full investigation.",
+      "facts": [
+        {
+          "claim": "Date: 7 May 1945.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Wikipedia: 1945 shooting on Dam square, Amsterdam",
+              "url": "https://en.wikipedia.org/wiki/1945_shooting_on_Dam_square,_Amsterdam"
+            }
+          ]
+        },
+        {
+          "claim": "Crowds had gathered to celebrate the arrival of Allied liberators.",
+          "verified": true,
+          "amplification": "Canadian forces were entering the city; the German surrender had been signed on 5 May. The Dam was thronged with civilians.",
+          "sources": [
+            {
+              "title": "Stichting Memorial voor Damslachtoffers 7 mei 1945",
+              "url": "https://de-dam-zevenmei1945.nl/en/ondamsquare/"
+            }
+          ]
+        },
+        {
+          "claim": "Members of the German Kriegsmarine fired from the balcony of the Groote Club.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Anne Frank House — Shooting on Dam Square",
+              "url": "https://www.annefrank.org/en/timeline/171/shooting-on-dam-square/"
+            }
+          ]
+        },
+        {
+          "claim": "Death toll was 32, not 22.",
+          "verified": true,
+          "amplification": "The accepted figure today is 32 civilian deaths (some died in subsequent weeks of their wounds; one died on 22 June) and 100–120 wounded. The lower 22-killed figure that circulated for decades was an early newspaper estimate that was never officially revised. The Stichting Memorial voor Damslachtoffers maintains the verified list.",
+          "sources": [
+            {
+              "title": "Wikipedia: 1945 shooting on Dam square",
+              "url": "https://en.wikipedia.org/wiki/1945_shooting_on_Dam_square,_Amsterdam"
+            },
+            {
+              "title": "Stichting Memorial — On Dam Square",
+              "url": "https://de-dam-zevenmei1945.nl/en/ondamsquare/"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/groote-club-shooting.jpg",
+          "credit": "Wikimedia Commons — WLM - Minke Wagenaar - Industrieele Groote Club 002.jpg (CC license — see source)",
+          "source_url": "https://commons.wikimedia.org/wiki/File%3AWLM%20-%20Minke%20Wagenaar%20-%20Industrieele%20Groote%20Club%20002.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/WLM_-_Minke_Wagenaar_-_Industrieele_Groote_Club_002.jpg/1920px-WLM_-_Minke_Wagenaar_-_Industrieele_Groote_Club_002.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/groote-club-shooting-00.jpg",
+            "credit": "A. T. Rooswinkel (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:A_T_Rooswinkel,_Damrak_101-94,_ca._1880,_Afb_010005000229.jpg",
+            "alt": "View of Damrak around 1880 with the building of De Groote Club at the corner of Kalverstraat and Paleisstraat.",
+            "note": "Damrak around 1880, with the original Groote Club visible at the south corner of the Dam. The 'Grand Café' on Dam Square housed the elite Sociëteit De Groote Club gentleman's club — and on Liberation Day, 7 May 1945, German Kriegsmarine soldiers used this very balcony to open machine-gun fire on the celebrating crowd below.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/A_T_Rooswinkel%2C_Damrak_101-94%2C_ca._1880%2C_Afb_010005000229.jpg/1280px-A_T_Rooswinkel%2C_Damrak_101-94%2C_ca._1880%2C_Afb_010005000229.jpg"
+          },
+          {
+            "url": "assets/img/gallery/groote-club-shooting-01.jpg",
+            "credit": "Nicolaas Jan Boon (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dam,_zuidzijde_met_het_gebouw_Zeemanshoop_en_de_Groote_Club_versiert_wegens_de_kroning_van_koningin_Wilhelmina.jpg",
+            "alt": "The Groote Club building decorated for Queen Wilhelmina’s coronation, c.1898.",
+            "note": "The Groote Club building decorated for Queen Wilhelmina's 1898 coronation. The current building dates from 1912–14, designed by architects Foeke Kuipers and J. van der Bijl. It still stands at the south side of the Dam — the bullet-pocked balcony of the 1945 incident is the prominent corner balcony.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dam%2C_zuidzijde_met_het_gebouw_Zeemanshoop_en_de_Groote_Club_versiert_wegens_de_kroning_van_koningin_Wilhelmina.jpg/1280px-Dam%2C_zuidzijde_met_het_gebouw_Zeemanshoop_en_de_Groote_Club_versiert_wegens_de_kroning_van_koningin_Wilhelmina.jpg"
+          },
+          {
+            "url": "assets/img/gallery/groote-club-shooting-02.jpg",
+            "credit": "Gebroeders Douwes (uitgever) (1866-1900) (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Gebroeders_Douwes,_Afb_010005000015.jpg",
+            "alt": "View of the south side of the Dam with the new Groote Club nearing completion, 1913.",
+            "note": "The new Groote Club building photographed in 1913, near completion. On 7 May 1945, two days after the German capitulation in the Netherlands had been signed, German marines still inside the building opened fire on the crowd celebrating below in Dam Square. Estimates of those killed range from 22 to 32, with over 100 wounded.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gebroeders_Douwes%2C_Afb_010005000015.jpg/1280px-Gebroeders_Douwes%2C_Afb_010005000015.jpg"
+          },
+          {
+            "url": "assets/img/gallery/groote-club-shooting-03.jpg",
+            "credit": "Alf van Beem (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dam,_Kalverstraat,_Paleisstraat_en_links_Zeemanshoop.jpg",
+            "alt": "The Dam with the Groote Club building visible at the corner of Kalverstraat and Paleisstraat, around 1900–1914.",
+            "note": "The Dam between 1900 and 1914, showing the Groote Club at the corner of Kalverstraat. Today a small bronze plaque on the building commemorates the victims of the May 1945 Dam shooting; it is one of the easiest war memorials to walk past in Amsterdam.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dam%2C_Kalverstraat%2C_Paleisstraat_en_links_Zeemanshoop.jpg/1280px-Dam%2C_Kalverstraat%2C_Paleisstraat_en_links_Zeemanshoop.jpg"
+          },
+          {
+            "url": "assets/img/gallery/groote-club-shooting-04.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:De_Dam_en_Kalverstraat,_Amsterdam_~1900-1914.jpg",
+            "alt": "The Dam looking south toward the Kalverstraat, around 1900–1914.",
+            "note": "The same view from the early 1900s, with crowds and trams. Surviving witnesses of 7 May 1945 — including residents who had hidden Jews or worked in the resistance — described the shooting as the cruellest moment of an already-long war: people had been celebrating, and many of those killed were children.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/De_Dam_en_Kalverstraat%2C_Amsterdam_~1900-1914.jpg/1280px-De_Dam_en_Kalverstraat%2C_Amsterdam_~1900-1914.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia: 1945 shooting on Dam square, Amsterdam",
+          "url": "https://en.wikipedia.org/wiki/1945_shooting_on_Dam_square,_Amsterdam"
+        },
+        {
+          "title": "Stichting Memorial voor Damslachtoffers 7 mei 1945",
+          "url": "https://de-dam-zevenmei1945.nl/en/"
+        },
+        {
+          "title": "Anne Frank House — Shooting on Dam Square",
+          "url": "https://www.annefrank.org/en/timeline/171/shooting-on-dam-square/"
+        },
+        {
+          "title": "Rampsporen — Remembering Disaster",
+          "url": "https://www.rampsporen.nl/?p=1723"
+        }
+      ]
+    },
+    {
+      "id": "jewish-resistance-monument",
+      "number": 5,
+      "title": "Jewish Resistance Monument",
+      "title_nl": "Joods Verzetsmonument",
+      "subtitle": "Joseph Glatt, unveiled 16 October 1988",
+      "address": "Amstel 1 (corner Zwanenburgwal), 1011 PN Amsterdam — alongside the Stopera",
+      "coords": [
+        52.3675,
+        4.89889
+      ],
+      "summary": "A four-metre column of black granite carved with the form of stone tablets, commemorating Jewish men and women who took up active resistance against the German occupation. Initiated in 1986 by two surviving Jewish resistance fighters — boxer Bennie Bluhm (1917-1986) and Herman 'Chaim' Natkiel — through their Stichting Comité Joods Verzet 1940-1945. Bluhm died shortly after founding the committee. The monument was unveiled by Speaker of the Lower House Dick Dolman on 16 October 1988 in the presence of Mayor Ed van Thijn. The sides bear, in Dutch and Hebrew, a verse from the prophet Jeremiah: 'Were my eyes a fountain of tears, then I would weep day and night for the fallen warriors of my dear people.'",
+      "facts": [
+        {
+          "claim": "The monument's sculptor is Joseph Glatt — not Bennie Bluhm. Bluhm was the initiator.",
+          "verified": true,
+          "amplification": "Bluhm was the initiator and fundraiser. The designer was the Belgian-born stonemason Joseph (Josef) Glatt, who specialised in Jewish gravestones. Bluhm died in 1986, two years before the unveiling.",
+          "sources": [
+            {
+              "title": "Wikipedia (NL): Joods Verzetsmonument",
+              "url": "https://nl.wikipedia.org/wiki/Joods_Verzetsmonument"
+            },
+            {
+              "title": "Joods Cultureel Kwartier — Joods Verzetsmonument",
+              "url": "https://jck.nl/verhalen-en-verdieping/artikel-joods-verzetsmonument"
+            }
+          ]
+        },
+        {
+          "claim": "Bluhm boxed at the Olympia school and led a Jewish self-defence group against the NSB in 1941.",
+          "verified": true,
+          "amplification": "The Jewish boxing school in question was Olympia (the Maccabi club, founded 1888, was a separate Jewish sports federation; many of its boxers also organised self-defence units in 1940–41). Bluhm survived deportation to Westerbork — the famous story is that he punched an SD officer there — and lived until 1986.",
+          "sources": [
+            {
+              "title": "Sportgeschiedenis — De Joodse bokser Bennie Bluhm",
+              "url": "https://sportgeschiedenis.nl/overige-sport/vechtsporten/de-joodse-bokser-bennie-bluhm-is-een-monument-van-het-antifascistische-verzet/"
+            }
+          ]
+        },
+        {
+          "claim": "Unveiled 16 October 1988.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Wikipedia (NL): Joods Verzetsmonument",
+              "url": "https://nl.wikipedia.org/wiki/Joods_Verzetsmonument"
+            },
+            {
+              "title": "Nationaal Comité 4 en 5 mei — Monument Joods Verzet",
+              "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/1631/amsterdam-monument-joods-verzet-1940-1945"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/jewish-resistance-monument.jpg",
+          "credit": "Wikipedia (nl) — Joods Verzetsmonument (CC license — see source)",
+          "source_url": "https://nl.wikipedia.org/wiki/Joods%20Verzetsmonument",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Monument_Joods_verzet.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/jewish-resistance-monument-00.jpg",
+            "credit": "Rob Bogaerts / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Monument_voor_Joods_verzet_in_Amsterdam_bij_het_nieuwe_stadhuis,_Bestanddeelnr_934-3403.jpg",
+            "alt": "The Jewish Resistance Monument shortly after its unveiling near the Stopera, October 1988.",
+            "note": "The Joods Verzetsmonument, photographed weeks after its unveiling on 28 September 1988. Designed by sculptor Jan Wolkers's pupil Joseph Glatt, it commemorates the roughly 2,000 Dutch Jews who participated in armed and unarmed resistance against the German occupation. Anefo photo by Rob Bogaerts.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Monument_voor_Joods_verzet_in_Amsterdam_bij_het_nieuwe_stadhuis%2C_Bestanddeelnr_934-3403.jpg/1280px-Monument_voor_Joods_verzet_in_Amsterdam_bij_het_nieuwe_stadhuis%2C_Bestanddeelnr_934-3403.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-resistance-monument-01.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Monument_Joods_Verzet_2018_(1).jpg",
+            "alt": "Front view of the Jewish Resistance Monument on the Zwanenburgwal.",
+            "note": "The monument's main inscription reads: 'Ter herinnering aan het verzet van de Joodse burgers gevallen in 1940–1945. 5700–5705' — 'In memory of the resistance of Jewish citizens fallen in 1940–1945', with the parallel Hebrew calendar dates. The black granite columns are inscribed with a verse from Jeremiah.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Monument_Joods_Verzet_2018_%281%29.jpg/1280px-Monument_Joods_Verzet_2018_%281%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-resistance-monument-02.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Monument_Joods_Verzet_2018_(2).jpg",
+            "alt": "Side profile of the Jewish Resistance Monument showing its black granite columns.",
+            "note": "The monument sits on the Amstel directly behind the Stopera (Stadhuis-Muziektheater complex). Around 75% of Dutch Jews were murdered during the occupation — the highest proportion in Western Europe — making the resistance commemorated here all the rarer.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Monument_Joods_Verzet_2018_%282%29.jpg/1280px-Monument_Joods_Verzet_2018_%282%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-resistance-monument-03.jpg",
+            "credit": "Txllxt TxllxT (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Amstel_-_Zwanenburgwal_-_Monument_to_Jewish_Resistance_1988_by_Joseph_Glatt_1.jpg",
+            "alt": "The Jewish Resistance Monument seen from the Zwanenburgwal canal.",
+            "note": "The monument's location near the Amstel water and the city hall is significant: the Zwanenburgwal was once the heart of Jewish Amsterdam, and the present Stopera complex stands on the cleared site of the old Jodenbuurt. Roughly 80,000 Jews lived in Amsterdam before the war.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Amsterdam_-_Amstel_-_Zwanenburgwal_-_Monument_to_Jewish_Resistance_1988_by_Joseph_Glatt_1.jpg/1280px-Amsterdam_-_Amstel_-_Zwanenburgwal_-_Monument_to_Jewish_Resistance_1988_by_Joseph_Glatt_1.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-resistance-monument-04.jpg",
+            "credit": "Txllxt TxllxT (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Amstel_-_Zwanenburgwal_-_Monument_to_Jewish_Resistance_1988_by_Joseph_Glatt_2.jpg",
+            "alt": "Detail of the Jewish Resistance Monument showing its inscribed columns.",
+            "note": "Notable acts of Jewish resistance in the Netherlands include the 1943 attack on the Amsterdam Civil Registry (Stop 12 on this walk), the smuggling of children out of the Hollandsche Schouwburg crèche (Stop 11), and participation in the underground press, falsified-papers networks and armed groups.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amsterdam_-_Amstel_-_Zwanenburgwal_-_Monument_to_Jewish_Resistance_1988_by_Joseph_Glatt_2.jpg/1280px-Amsterdam_-_Amstel_-_Zwanenburgwal_-_Monument_to_Jewish_Resistance_1988_by_Joseph_Glatt_2.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-resistance-monument-05.jpg",
+            "credit": "Hnapel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Monument_Joods_Verzet_hnapel_01.jpg",
+            "alt": "The Jewish Resistance Monument in its setting beside the Stopera complex.",
+            "note": "Wider context view of the monument beside the Stopera. Of the roughly 25,000 Dutch Jews who went into hiding, about a third were betrayed or arrested. The monument honours those who fought back, hid others, distributed underground papers, or simply refused to register.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Amsterdam_Monument_Joods_Verzet_hnapel_01.jpg/1280px-Amsterdam_Monument_Joods_Verzet_hnapel_01.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia (NL): Joods Verzetsmonument",
+          "url": "https://nl.wikipedia.org/wiki/Joods_Verzetsmonument"
+        },
+        {
+          "title": "Joods Cultureel Kwartier — JCK article",
+          "url": "https://jck.nl/verhalen-en-verdieping/artikel-joods-verzetsmonument"
+        },
+        {
+          "title": "Nationaal Comité 4 en 5 mei",
+          "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/1631/amsterdam-monument-joods-verzet-1940-1945"
+        },
+        {
+          "title": "Tracesofwar — Monument Joods Verzet",
+          "url": "https://www.tracesofwar.nl/sights/6917/Monument-Joods-Verzet.htm"
+        }
+      ]
+    },
+    {
+      "id": "jewish-boys-orphanage",
+      "number": 6,
+      "title": "Jewish Boys' Orphanage Memorial — Megádle Jethomim",
+      "title_nl": "Monument Joods Jongensweeshuis",
+      "subtitle": "Otto Treumann, 1986",
+      "address": "Pavement near the Stopera (former site Amstel 21-22 / corner Zwanenburgerstraat)",
+      "coords": [
+        52.36833,
+        4.90028
+      ],
+      "summary": "A pavement memorial — a stylised ribbon of stones set into the ground — designed by graphic designer Otto Treumann (1919-2001) and installed in 1986. It marks the spot of the Megádle Jethomim ('Upbringing of Orphans') orphanage, founded by Amsterdam's Ashkenazi community in 1738 and standing on this corner from 1836. By the eve of the war about 100 boys lived there, many of them refugees from Germany. On 10 February 1943 German police entered the building. All the boys, plus three caretakers (Alfred Hofmann, his brother Semi, and one volunteer) who chose to accompany them, were taken to Westerbork and onwards to the Sobibor extermination camp. None returned. The orphanage building itself was demolished during the redevelopment that produced the Stopera in the 1970s.",
+      "facts": [
+        {
+          "claim": "On 10 February 1943, ~100 boys and 3 caretakers were taken from the orphanage and ultimately murdered at Sobibor.",
+          "verified": true,
+          "amplification": "Records show roughly 100 children. The three accompanying caretakers volunteered to stay with the boys. They were transported via Westerbork; nobody returned.",
+          "sources": [
+            {
+              "title": "Stadscuratorium Amsterdam — Memorial Jewish orphanage",
+              "url": "https://stadscuratorium.nl/en/advice/monument-joods-jongensweeshuis/"
+            },
+            {
+              "title": "Tracesofwar — Memorial Megádle Jethomien",
+              "url": "https://www.tracesofwar.com/sights/7606/Memorial-Megadl%C3%A9-Jethomien.htm"
+            }
+          ]
+        },
+        {
+          "claim": "Designed by Otto Treumann, installed 1986. The orphanage building was demolished in 1977.",
+          "verified": true,
+          "amplification": "Otto Treumann (1919-2001) was a Jewish graphic designer who fled Fürth, Germany, for Amsterdam in 1935. During the war he forged identity papers for the resistance; his parents and grandmother were murdered at Sobibor. He was commissioned for this memorial by Joods Maatschappelijk Werk in the mid-1980s.",
+          "sources": [
+            {
+              "title": "Stadscuratorium — Memorial Jewish orphanage",
+              "url": "https://stadscuratorium.nl/en/advice/monument-joods-jongensweeshuis/"
+            },
+            {
+              "title": "MoMA — Otto Treumann",
+              "url": "https://www.moma.org/artists/5929"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/jewish-boys-orphanage.jpg",
+          "credit": "Wikimedia Commons — Gedenkteken voormalig Joods weeshuis (16).jpg (CC license — see source)",
+          "source_url": "https://commons.wikimedia.org/wiki/File%3AGedenkteken%20voormalig%20Joods%20weeshuis%20%2816%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gedenkteken_voormalig_Joods_weeshuis_%2816%29.jpg/1920px-Gedenkteken_voormalig_Joods_weeshuis_%2816%29.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/jewish-boys-orphanage-00.jpg",
+            "credit": "Dqfn13 (CC BY-SA 3.0 nl) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rapenburgerstraat_171,_Amsterdam.jpg",
+            "alt": "The 18th-century building that housed the Megádle Jethomim Jewish boys’ orphanage at Rapenburgerstraat 171.",
+            "note": "Rapenburgerstraat 171, the 18th-century building that housed the Megádle Jethomim Jewish boys' orphanage from 1738 onward. On the night of 9–10 March 1943, German police took the remaining boys from the orphanage; almost all were murdered at Sobibor.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rapenburgerstraat_171%2C_Amsterdam.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-boys-orphanage-01.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rapenburgstraat_171_(1).jpg",
+            "alt": "Close-up of the Megádle Jethomim memorial plaque on Rapenburgerstraat 171.",
+            "note": "A close view of the building. The Hebrew name 'Megádle Jethomim' means 'raisers of orphans' — taken from a passage in the Talmud. The orphanage was founded in 1738 to care for Ashkenazi Jewish boys; the Sephardi community ran a separate institution.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rapenburgstraat_171_%281%29.jpg/1280px-Rapenburgstraat_171_%281%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-boys-orphanage-02.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rapenburgstraat_171_(2).jpg",
+            "alt": "View of Rapenburgerstraat 171 with its memorial wall plaque.",
+            "note": "Today a memorial plaque on the wall lists the names of the boys deported on 10 March 1943. The address is also a Stolperstein (stumbling-stone) site, part of artist Gunter Demnig's pan-European project of brass cobblestones marking the last freely-chosen residences of Holocaust victims.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rapenburgstraat_171_%282%29.jpg/1280px-Rapenburgstraat_171_%282%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-boys-orphanage-03.jpg",
+            "credit": "Vysotsky (CC BY-SA 3.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam1.JPG",
+            "alt": "Facade of the former Jewish girls’ orphanage at Rapenburgerstraat 171 (now misidentified as a girls’ orphanage in some sources).",
+            "note": "The handsome 18th-century facade of the former Megádle Jethomim. Some online sources identify the building as a girls' orphanage; it was in fact the boys' orphanage — the Joods Meisjesweeshuis (girls' orphanage) was a separate institution at Rapenburgerstraat 175.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amsterdam1.JPG/1280px-Amsterdam1.JPG"
+          },
+          {
+            "url": "assets/img/gallery/jewish-boys-orphanage-04.jpg",
+            "credit": "Vysotsky (CC BY-SA 3.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam3.JPG",
+            "alt": "Detail of the upper floors of Rapenburgerstraat 171.",
+            "note": "An exterior detail of the building. The Megádle Jethomim continued operating through the early years of the occupation; in February 1943 the few remaining boys were forcibly transferred to the Hollandsche Schouwburg deportation centre nearby, before being sent on to Westerbork and then to Sobibor.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Amsterdam3.JPG/1280px-Amsterdam3.JPG"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Stadscuratorium Amsterdam — Memorial entry",
+          "url": "https://stadscuratorium.nl/en/advice/monument-joods-jongensweeshuis/"
+        },
+        {
+          "title": "UvA Placemaking — Megádle Jethomim memorial",
+          "url": "https://placemakingamsterdam.nl/partners/stadscuratorium-amsterdam/megadle-jethomim-memorial"
+        },
+        {
+          "title": "Dokin — Boys' Orphanage Megadle Jethomim",
+          "url": "https://www.dokin.nl/refugee_homes/amsterdam-boys-orphanage-megadle-jethomim-upbringing-of-orphans/"
+        },
+        {
+          "title": "Joods Monument — Jewish Social Services",
+          "url": "https://www.joodsmonument.nl/en/page/709/jewish-social-services"
+        }
+      ]
+    },
+    {
+      "id": "dokwerker",
+      "number": 7,
+      "title": "The Dock Worker — De Dokwerker",
+      "title_nl": "De Dokwerker",
+      "subtitle": "Mari Andriessen, unveiled 19 December 1952 by Queen Juliana",
+      "address": "Jonas Daniël Meijerplein 2-4, 1011 RH Amsterdam",
+      "coords": [
+        52.36722,
+        4.905
+      ],
+      "summary": "A 2.5-metre bronze of a stocky working man, hands open, standing planted on a stone plinth in the centre of Jonas Daniël Meijerplein — the heart of pre-war Jewish Amsterdam. Sculptor Mari Andriessen (himself a wartime resister whose Haarlem studio housed Jewish people in hiding and a resistance arms cache) modelled the figure on Willem Termetz, a Haarlem carpenter. Andriessen deliberately chose an ordinary worker rather than an idealised hero. The monument commemorates the February Strike of 25-26 February 1941 — the only general strike in Nazi-occupied Europe organised against the persecution of Jews. Each 25 February, Amsterdam still walks past it for the Februari-staking commemoration.",
+      "facts": [
+        {
+          "claim": "The February Strike began 25 February 1941 in response to the Nazi razzia of 22-23 February.",
+          "verified": true,
+          "amplification": "On 22-23 February, 427 Jewish men aged 18-35 were rounded up in the Jodenbuurt and taken to the Mauthausen concentration camp; almost all were murdered within months. The communist underground called a general strike; tram drivers walked out first on 25 February, followed by sanitation workers, dockworkers, shipyard workers, teachers, students. Some ~300,000 people in Amsterdam, the Zaanstreek and other cities joined. The German occupation responded with force: nine strikers were killed, dozens were wounded, and three communist organisers were later executed.",
+          "sources": [
+            {
+              "title": "Wikipedia: February strike",
+              "url": "https://en.wikipedia.org/wiki/February_strike"
+            },
+            {
+              "title": "National WWII Museum — Amsterdam General Strike",
+              "url": "https://www.nationalww2museum.org/war/articles/amsterdam-general-strike-february-1941"
+            },
+            {
+              "title": "Anne Frank House — The February Strike",
+              "url": "https://www.annefrank.org/en/timeline/34/the-february-strike/"
+            }
+          ]
+        },
+        {
+          "claim": "It was the only general strike in occupied Europe protesting the persecution of Jews.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Wikipedia: February strike",
+              "url": "https://en.wikipedia.org/wiki/February_strike"
+            }
+          ]
+        },
+        {
+          "claim": "Sculpted by Mari Andriessen; unveiled 19 December 1952 by Queen Juliana.",
+          "verified": true,
+          "amplification": "Mari Andriessen (1897–1979) was himself active in the resistance during the war. The statue was unveiled on 19 December 1952 and was later moved a short distance in 1970 during construction of the metro and Stopera.",
+          "sources": [
+            {
+              "title": "Wikipedia (NL): De Dokwerker",
+              "url": "https://nl.wikipedia.org/wiki/De_Dokwerker"
+            },
+            {
+              "title": "Stadscuratorium — De Dokwerker",
+              "url": "https://stadscuratorium.nl/en/collectie/de-dokwerker-the-dock-worker/"
+            }
+          ]
+        },
+        {
+          "claim": "The number rounded up in the February 1941 razzia was 427 (not 425 or 400).",
+          "verified": true,
+          "amplification": "Of the 427 men deported, only two survived. 425 died at Mauthausen and Buchenwald.",
+          "sources": [
+            {
+              "title": "Wikipedia: February strike",
+              "url": "https://en.wikipedia.org/wiki/February_strike"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/dokwerker.jpg",
+          "credit": "Wikipedia (nl) — De Dokwerker (CC license — see source)",
+          "source_url": "https://nl.wikipedia.org/wiki/De%20Dokwerker",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De_Dokwerker.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/dokwerker-00.jpg",
+            "credit": "Rijksdocumentatiedienst (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Razzia_feb41_amsterdam.jpg",
+            "alt": "Jewish men kneel under the guns of the Grüne Polizei on Jonas Daniël Meijerplein, 22 February 1941.",
+            "note": "The defining image of the Razzia: Jewish men forced to kneel at gunpoint by the Grüne Polizei on the Jonas Daniël Meijerplein, 22 February 1941. About 427 men aged 18–35 were rounded up here that day and the next; only two ever returned. The brutal, public nature of the raid sparked the February Strike.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Razzia_feb41_amsterdam.jpg/1280px-Razzia_feb41_amsterdam.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-01.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Razzia_februari_1941_meijerplein.jpg",
+            "alt": "German police lead arrested Jewish men away from Jonas Daniël Meijerplein during the February 1941 Razzia.",
+            "note": "Arrested men being led off the square. The order for the raid came from Himmler, Seyss-Inquart and Rauter, who decided to 'set an example' after street fighting between Jewish defenders and Dutch Nazis. The men were sent to Buchenwald and then Mauthausen, where most were murdered within months.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Razzia_februari_1941_meijerplein.jpg/1280px-Razzia_februari_1941_meijerplein.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-02.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Arrestanten_razzia_Amsterdam_Meijerplein_1941.jpg",
+            "alt": "Group of Jewish men under arrest on the Jonas Daniël Meijerplein during the Razzia of 22 February 1941.",
+            "note": "The arrested men were marched directly to the school and the holding pens, then onto trucks. Of the 427 deported to Mauthausen, just two — Max Nebig and Jacques Schol — survived the war. The Razzia was the first mass deportation of Jews from Amsterdam.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Arrestanten_razzia_Amsterdam_Meijerplein_1941.jpg/1280px-Arrestanten_razzia_Amsterdam_Meijerplein_1941.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-03.jpg",
+            "credit": "Lou Jansen (1900-1943) (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Pamflet_Februaristaking_1941.jpg",
+            "alt": "Pamphlet calling for the February Strike, distributed in Amsterdam on 24 February 1941.",
+            "note": "The Communist Party (CPN) pamphlet that ignited the strike: 'STAAKT! STAAKT! STAAKT!' — Strike! Strike! Strike! On 25 February 1941, Amsterdam tram drivers, dockworkers, civil servants and factory workers walked off the job in protest at the Razzia. It was the only general strike against Jewish persecution anywhere in Nazi-occupied Europe.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pamflet_Februaristaking_1941.jpg/1280px-Pamflet_Februaristaking_1941.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-04.jpg",
+            "credit": "Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:De_Dokwerker_in_de_sneeuw,_Bestanddeelnr_906-9476.jpg",
+            "alt": "The Dokwerker statue on the Jonas Daniël Meijerplein covered in snow, January 1955.",
+            "note": "Mari Andriessen's bronze 'De Dokwerker' was unveiled by Queen Juliana on 19 December 1952. The figure — broad-shouldered, fists clenched, head turned in defiance — was modelled on the dock workers and tram drivers who had walked out in protest. Anefo press photo, January 1955.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/De_Dokwerker_in_de_sneeuw%2C_Bestanddeelnr_906-9476.jpg/1280px-De_Dokwerker_in_de_sneeuw%2C_Bestanddeelnr_906-9476.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-05.jpg",
+            "credit": "Joop van Bilsen for Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Februariherdenking_op_J._D._Meyerplein_._Burgemeester_houdt_rede,_Bestanddeelnr_913-5592.jpg",
+            "alt": "Mayor of Amsterdam giving an address at the Dokwerker on 25 February 1962, the 21st commemoration of the February Strike.",
+            "note": "The mayor of Amsterdam addresses the annual February Strike commemoration, 25 February 1962. The 25 February ceremony — wreath-laying followed by the Lange Mars from the Dokwerker through the former Jodenbuurt — has been observed every year since 1946 and remains one of the city's most attended civic events.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Februariherdenking_op_J._D._Meyerplein_._Burgemeester_houdt_rede%2C_Bestanddeelnr_913-5592.jpg/1280px-Februariherdenking_op_J._D._Meyerplein_._Burgemeester_houdt_rede%2C_Bestanddeelnr_913-5592.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-06.jpg",
+            "credit": "Hugo van Gelderen / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Herdenking_februaristaking_1941_op_het_J_D_Meyerplein_het_standbeeld_De_Dokwe,_Bestanddeelnr_912-1298.jpg",
+            "alt": "Crowd at the February Strike commemoration in front of the Dokwerker statue, February 1961.",
+            "note": "Crowds at the 1961 commemoration. The strike of 25–26 February 1941 was crushed within two days: the Germans declared martial law, killed nine strikers and arrested hundreds. But it had broken the German fiction of a 'voluntary' Dutch acceptance of anti-Jewish measures.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herdenking_februaristaking_1941_op_het_J_D_Meyerplein_het_standbeeld_De_Dokwe%2C_Bestanddeelnr_912-1298.jpg/1280px-Herdenking_februaristaking_1941_op_het_J_D_Meyerplein_het_standbeeld_De_Dokwe%2C_Bestanddeelnr_912-1298.jpg"
+          },
+          {
+            "url": "assets/img/gallery/dokwerker-07.jpg",
+            "credit": "A.A.W.J. Rietman (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam,_De_dokwerker_02.JPG",
+            "alt": "The Dokwerker statue today on Jonas Daniël Meijerplein, with the Portuguese Synagogue behind.",
+            "note": "The statue today, with the Portuguese Synagogue visible behind. The plinth bears the simple word 'Februari 1941'. The figure is depicted in working clothes — not a soldier, not an allegorical hero, but a real Amsterdammer, the kind of person who actually walked out.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amsterdam%2C_De_dokwerker_02.JPG/1280px-Amsterdam%2C_De_dokwerker_02.JPG"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia (NL): De Dokwerker",
+          "url": "https://nl.wikipedia.org/wiki/De_Dokwerker"
+        },
+        {
+          "title": "Wikipedia (EN): February strike",
+          "url": "https://en.wikipedia.org/wiki/February_strike"
+        },
+        {
+          "title": "Stadscuratorium — De Dokwerker",
+          "url": "https://stadscuratorium.nl/en/collectie/de-dokwerker-the-dock-worker/"
+        },
+        {
+          "title": "Anne Frank House — The February Strike",
+          "url": "https://www.annefrank.org/en/timeline/34/the-february-strike/"
+        },
+        {
+          "title": "Verzetsmuseum — The February Strike",
+          "url": "https://www.verzetsmuseum.org/en/kennisbank/the-february-strike-1"
+        }
+      ]
+    },
+    {
+      "id": "portuguese-synagogue",
+      "number": 8,
+      "title": "Portuguese Synagogue (Esnoga)",
+      "title_nl": "Portugees-Israëlitische Synagoge / Esnoga",
+      "subtitle": "Elias Bouman, 1671-1675",
+      "address": "Mr. Visserplein 3, 1011 RD Amsterdam",
+      "coords": [
+        52.3675,
+        4.90528
+      ],
+      "summary": "One of the largest synagogues in 17th-century Europe, built by Amsterdam's Sephardic Jewish community — descendants of Jews expelled from Spain (1492) and Portugal (1496) who had been welcomed into Amsterdam for both their commercial networks and the Dutch Republic's relative religious tolerance. Architect Elias Bouman broke ground on 17 April 1671; the building was inaugurated on 2 August 1675. Its design echoes the biblical descriptions of Solomon's Temple. Inside: original oak benches and ceiling, sand on the floor (to absorb dirt and muffle footsteps), and no electricity — the sanctuary is still lit only by daylight and candles in twelve enormous brass candelabras. The complex also houses Ets Haim — Livraria Montezinos, founded in 1616 and inscribed in 2003 in the UNESCO Memory of the World register, the oldest functioning Jewish library in the world.",
+      "facts": [
+        {
+          "claim": "Building completed 1675; architect Elias Bouman.",
+          "verified": true,
+          "amplification": "Foundation laid 17 April 1671; inaugurated 2 August 1675. The plan is based on biblical descriptions of Solomon's Temple. The synagogue is still in use for Sephardic services.",
+          "sources": [
+            {
+              "title": "Wikipedia: Portuguese Synagogue (Amsterdam)",
+              "url": "https://en.wikipedia.org/wiki/Portuguese_Synagogue_(Amsterdam)"
+            }
+          ]
+        },
+        {
+          "claim": "Sand on the floor; no electricity; lit by candles.",
+          "verified": true,
+          "amplification": "The sand absorbs dust and muffles footsteps; candles in 1,000+ historic light fittings illuminate services. There is no central heating.",
+          "sources": [
+            {
+              "title": "Wikipedia: Portuguese Synagogue",
+              "url": "https://en.wikipedia.org/wiki/Portuguese_Synagogue_(Amsterdam)"
+            }
+          ]
+        },
+        {
+          "claim": "Ets Haim is the oldest still-functioning Jewish library in the world (founded 1616, UNESCO listed 2003).",
+          "verified": true,
+          "amplification": "500 manuscripts and 30,000 printed works. Donated by then-librarian David Montezinos in 1889 and known since as Ets Haim — Livraria Montezinos. Added to UNESCO's Memory of the World International Register in 2003.",
+          "sources": [
+            {
+              "title": "Wikipedia: Portuguese Synagogue (Ets Haim section)",
+              "url": "https://en.wikipedia.org/wiki/Portuguese_Synagogue_(Amsterdam)"
+            },
+            {
+              "title": "Joods Cultureel Kwartier — Portuguese Synagogue",
+              "url": "https://jck.nl/en/location/portuguese-synagogue"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/portuguese-synagogue.jpg",
+          "credit": "Wikipedia (en) — Portuguese Synagogue, Amsterdam (CC license — see source)",
+          "source_url": "https://en.wikipedia.org/wiki/Portuguese%20Synagogue%2C%20Amsterdam",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Amsterdam%2C_Portugese_Synagoge%2C_%2817_januari_2015%29_131.JPG"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-00.jpg",
+            "credit": "Txllxt TxllxT (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_I.jpg",
+            "alt": "Interior of the Portuguese Synagogue (Esnoga), looking toward the Holy Ark.",
+            "note": "The interior of the Esnoga, looking east toward the Holy Ark. The space — built 1671–75 by architect Elias Bouman — has remained almost unchanged since opening: there is no electric light, only candles in the original brass chandeliers; the floor is covered in fine sand to muffle footsteps and absorb spills.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_I.jpg/1280px-Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_I.jpg"
+          },
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-01.jpg",
+            "credit": "Txllxt TxllxT (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_III.jpg",
+            "alt": "View toward the bimah (tebah) of the Portuguese Synagogue.",
+            "note": "The tebah (Sephardi term for the central reading platform; called bimah in Ashkenazi tradition) sits in the middle of the hall facing the Ark. The synagogue's design — a single large rectangular space, women's gallery above three sides — set the pattern for many later Sephardi synagogues, including the original Spanish-Portuguese synagogue of New York.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_III.jpg/1280px-Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_III.jpg"
+          },
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-02.jpg",
+            "credit": "Txllxt TxllxT (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_V.jpg",
+            "alt": "The brass chandeliers and wooden barrel vaults of the Esnoga.",
+            "note": "The brass chandeliers each hold 64 candles. On Friday evenings and festivals all 1,024 candles in the chandeliers are lit — the only light in the building, and the visual signature of the Esnoga at night.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_V.jpg/1280px-Amsterdam_-_Daniel_Meyerplein_-_Portuguese_Synagogue_1675_-_Interior_View_V.jpg"
+          },
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-03.jpg",
+            "credit": "Rademaker, Abraham (1675-1735) (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Abraham_Rademaker,_Afb_010094008224.jpg",
+            "alt": "Engraving of the Portuguese and Ashkenazi (“High German”) synagogues on Deventer Houtmarkt, c.1730.",
+            "note": "An 18th-century engraving by Abraham Rademaker showing both synagogues facing each other across what is now Mr. Visserplein and the Jonas Daniël Meijerplein. The Portuguese (Sephardi) synagogue is on the left; the Ashkenazi 'Hoogduitse' synagogue (now the Jewish Historical Museum) on the right.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Abraham_Rademaker%2C_Afb_010094008224.jpg/1280px-Abraham_Rademaker%2C_Afb_010094008224.jpg"
+          },
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-04.jpg",
+            "credit": "Eduard Frankfort (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Eduard_Frankfort_(1864-1920)_-_Interieur_van_de_Portugese_Synagoge_te_Amsterdam_-_MB00029_-_Jewish_Museum.jpg",
+            "alt": "Painting by Eduard Frankfort: Interior of the Portuguese Synagogue, c.1900.",
+            "note": "An 1900 painting of the Esnoga interior by Dutch Jewish artist Eduard Frankfort (1864–1920), now in the Jewish Museum collection. The painting captures the warm, candlelit interior that visitors still see today — one reason the building is sometimes called 'the synagogue that time forgot'.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Eduard_Frankfort_%281864-1920%29_-_Interieur_van_de_Portugese_Synagoge_te_Amsterdam_-_MB00029_-_Jewish_Museum.jpg"
+          },
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-05.jpg",
+            "credit": "Joop van Bilsen for Anefo Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ben_Gurion_in_Synagoge_Amsterdam,_Bestanddeelnr_911-3550.jpg",
+            "alt": "David Ben-Gurion visiting the Portuguese Synagogue, June 1960.",
+            "note": "David Ben-Gurion, then in his second term as Prime Minister of Israel, visiting the Esnoga in June 1960. The synagogue had survived the war intact: the Sephardi community claimed protection by their pre-Inquisition Portuguese citizenship, and the building's contents were left in place — including its 1675 wooden floor and brass chandeliers.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ben_Gurion_in_Synagoge_Amsterdam%2C_Bestanddeelnr_911-3550.jpg/1280px-Ben_Gurion_in_Synagoge_Amsterdam%2C_Bestanddeelnr_911-3550.jpg"
+          },
+          {
+            "url": "assets/img/gallery/portuguese-synagogue-06.jpg",
+            "credit": "Joop van Bilsen for Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam._De_Minister_van_Buitenlandse_Zaken_van_Israel,_mevrouw_Golda_Meir,_le,_Bestanddeelnr_916-1025.jpg",
+            "alt": "Israeli Foreign Minister Golda Meir laying a wreath at the Esnoga, February 1964.",
+            "note": "Golda Meir, then Foreign Minister of Israel, laying a wreath at the Portuguese Synagogue on 27 February 1964. The Sephardi community in Amsterdam dates from the late 16th century, when Jews fleeing the Portuguese and Spanish Inquisitions found refuge here.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amsterdam._De_Minister_van_Buitenlandse_Zaken_van_Israel%2C_mevrouw_Golda_Meir%2C_le%2C_Bestanddeelnr_916-1025.jpg/1280px-Amsterdam._De_Minister_van_Buitenlandse_Zaken_van_Israel%2C_mevrouw_Golda_Meir%2C_le%2C_Bestanddeelnr_916-1025.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Joods Cultureel Kwartier — Portuguese Synagogue",
+          "url": "https://jck.nl/en/location/portuguese-synagogue"
+        },
+        {
+          "title": "Wikipedia: Portuguese Synagogue (Amsterdam)",
+          "url": "https://en.wikipedia.org/wiki/Portuguese_Synagogue_(Amsterdam)"
+        },
+        {
+          "title": "Ets Haim Library",
+          "url": "https://etshaim.org/"
+        },
+        {
+          "title": "UNESCO Memory of the World — Ets Haim",
+          "url": "https://en.unesco.org/memoryoftheworld/registry/426"
+        }
+      ]
+    },
+    {
+      "id": "jewish-historical-museum",
+      "number": 9,
+      "title": "Jewish Historical Museum (Great Synagogue)",
+      "title_nl": "Joods Historisch Museum (Grote Sjoel)",
+      "subtitle": "Four-synagogue complex (Great Synagogue 1671); museum since 1932, current location since 1987",
+      "address": "Nieuwe Amstelstraat 1, 1011 PL Amsterdam",
+      "coords": [
+        52.36694,
+        4.90403
+      ],
+      "summary": "The museum occupies four neighbouring Ashkenazi synagogues, ingeniously linked by glass walkways: the Grote Sjoel (Great Synagogue, 1671), the Obbene Sjoel (1685), the Dritt Sjoel (1700) and the Nieuwe Sjoel (New Synagogue, 1752). The Grote Sjoel was the first synagogue in the Netherlands recognisable from the street as Jewish — an extraordinary public statement at a time when most of Europe banned visible synagogues. During the war the buildings were closed; during the Hunger Winter of 1944-45 starving Amsterdammers stripped wood from the upper galleries for fuel. The museum was founded in 1932; after closure during the occupation it reopened in 1955 and moved to this complex in 1987. Since 2012 it forms part of the Joods Cultureel Kwartier (Jewish Cultural Quarter).",
+      "facts": [
+        {
+          "claim": "The Great Synagogue was inaugurated 25 March 1671.",
+          "verified": true,
+          "amplification": "Designed by Elias Bouman (the same architect who would build the Portuguese Synagogue four years later). The building's prominent street presence was almost unique in 17th-century Europe and reflects the relative tolerance of the Dutch Republic.",
+          "sources": [
+            {
+              "title": "Center for Jewish Art (Hebrew U) — Great Ashkenazi Synagogue",
+              "url": "https://cja.huji.ac.il/browser.php?mode=set&id=9306"
+            },
+            {
+              "title": "Wikipedia: Joods Historisch Museum",
+              "url": "https://en.wikipedia.org/wiki/Joods_Historisch_Museum"
+            }
+          ]
+        },
+        {
+          "claim": "During the Hunger Winter of 1944-45, wood from the upper galleries was taken for heating.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Joods Cultureel Kwartier — Jewish Museum",
+              "url": "https://jck.nl/en/location/jewish-museum"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/jewish-historical-museum.jpg",
+          "credit": "Wikipedia (nl) — Joods Historisch Museum (CC license — see source)",
+          "source_url": "https://nl.wikipedia.org/wiki/Joods%20Historisch%20Museum",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mikwe1.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/jewish-historical-museum-00.jpg",
+            "credit": "Jacob Merkelbach (1877-1942) (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:1917_Henriette_Polak-Schwarz.jpg",
+            "alt": "Portrait of Henriette Polak-Schwarz, 1917, from the Jewish Historical Museum collection.",
+            "note": "A 1917 studio portrait by Jacob Merkelbach of Henriëtte Polak-Schwarz, from the museum's photography collection. Merkelbach himself was Jewish; he was murdered in Auschwitz in 1942. His studio archive of some 31,000 negatives survived the war hidden in the basement at Leidseplein and is now a major resource for Amsterdam family history.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/1917_Henriette_Polak-Schwarz.jpg/1280px-1917_Henriette_Polak-Schwarz.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-historical-museum-01.jpg",
+            "credit": "Vassil (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Book_of_Esther_JHM_Amsterdam_08112012_01.jpg",
+            "alt": "An 18th-century parchment Book of Esther scroll on display at the Jewish Historical Museum.",
+            "note": "An 18th-century parchment Esther scroll (megillah) from Alsace, on display at the Joods Historisch Museum. The museum's Judaica collection — silver, textiles, manuscripts and ceremonial objects — is one of the most important outside of Israel and the United States.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Book_of_Esther_JHM_Amsterdam_08112012_01.jpg/1280px-Book_of_Esther_JHM_Amsterdam_08112012_01.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-historical-museum-02.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:GerritKastein.jpg",
+            "alt": "Portrait of resistance fighter Gerrit Kastein (1910–1943), in the museum’s wartime collection.",
+            "note": "Dutch communist neurologist and resistance fighter Gerrit Kastein, who was responsible for the assassination of NSB leader H. A. Seyffardt in February 1943. Captured the same month, he committed suicide in detention rather than betray colleagues. His story is told in the museum's resistance section.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/GerritKastein.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-historical-museum-03.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:B.Premsela.jpg",
+            "alt": "Portrait of Benedictus Premsela (1889–1944), Dutch Jewish doctor and member of the museum’s commemorated dead.",
+            "note": "Benedictus Premsela (1889–1944), a Dutch Jewish doctor and pioneer of sex education in the Netherlands, who was deported to Auschwitz in 1944. His grandson, designer Benno Premsela, helped found the Homomonument 50 years later (Stop 1).",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/B.Premsela.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-historical-museum-04.jpg",
+            "credit": "Carl Cohnstein (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:1918-01-31_Cellerstra%C3%9Fe_101_Lister_Kaufhaus_Mitteilung_f%C3%BCr_Hedwig_Stern.jpg",
+            "alt": "A 1918 employment certificate for Hedwig Stern, from the museum’s document collection.",
+            "note": "A 1918 work certificate from a Hannover department store for a young Hedwig Stern — one of countless small documents in the museum's archive. Such ordinary papers often become the only surviving trace of an entire family murdered in the Holocaust.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1918-01-31_Cellerstra%C3%9Fe_101_Lister_Kaufhaus_Mitteilung_f%C3%BCr_Hedwig_Stern.jpg"
+          },
+          {
+            "url": "assets/img/gallery/jewish-historical-museum-05.jpg",
+            "credit": "Jacob Merkelbach (1877-1942) (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:1917_Polak-Van_Gelder_Polak-Schwarz.jpg",
+            "alt": "A 1917 family portrait from the Jacob Merkelbach studio archive in the Jewish Historical Museum.",
+            "note": "A 1917 family portrait from the Merkelbach archive: Henriëtte Polak-Schwarz with her family. The Joods Historisch Museum opened in 1932 in the Waag and moved in 1987 into a complex of four restored Ashkenazi synagogues — the Great, the Obbene, the Dritt and the New — at Jonas Daniël Meijerplein.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1917_Polak-Van_Gelder_Polak-Schwarz.jpg/1280px-1917_Polak-Van_Gelder_Polak-Schwarz.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Joods Cultureel Kwartier — Jewish Museum",
+          "url": "https://jck.nl/en/location/jewish-museum"
+        },
+        {
+          "title": "Wikipedia: Joods Historisch Museum",
+          "url": "https://en.wikipedia.org/wiki/Joods_Historisch_Museum"
+        },
+        {
+          "title": "Britannica — Joods Historisch Museum",
+          "url": "https://www.britannica.com/topic/Joods-Historisch-Museum"
+        }
+      ]
+    },
+    {
+      "id": "hollandsche-schouwburg",
+      "number": 10,
+      "title": "Hollandsche Schouwburg / National Holocaust Museum",
+      "title_nl": "Hollandsche Schouwburg (Joodsche Schouwburg) / Nationaal Holocaustmuseum",
+      "subtitle": "Theatre 1892; deportation point 1942-43; memorial since 1962; National Holocaust Museum opened 10 March 2024",
+      "address": "Plantage Middenlaan 24 (Schouwburg) and Plantage Middenlaan 27 (National Holocaust Museum), 1018 DE Amsterdam",
+      "coords": [
+        52.36639,
+        4.91111
+      ],
+      "summary": "Opened in 1892 as the Artis Schouwburg and renamed the Hollandsche Schouwburg two years later, this theatre was forced to perform only for Jewish audiences from 1941 (renamed the Joodsche Schouwburg). On 20 July 1942 the Nazis converted it into an Umschlagplatz — a holding point from which more than 46,000 Jews were sent to Westerbork and on to Auschwitz, Sobibor and other camps before the last transport on 19 November 1943. After the war the building was deliberately left as a ruin; on 4 May 1962 it was dedicated as a memorial. In 2024 the new Nationaal Holocaustmuseum opened across and along the street in the former teacher-training school (Hervormde Kweekschool) at Plantage Middenlaan 27 — the first museum in the Netherlands to tell the full story of the persecution of the Jews of the Netherlands.",
+      "facts": [
+        {
+          "claim": "Used as a deportation centre from 20 July 1942 to 19 November 1943.",
+          "verified": true,
+          "amplification": "Anywhere from 46,000 to over 100,000 Jews were processed through here (sources differ; the higher figure includes those held only briefly). They were typically held for hours, days or weeks before being put on trains to Westerbork.",
+          "sources": [
+            {
+              "title": "Wikipedia: Hollandsche Schouwburg",
+              "url": "https://en.wikipedia.org/wiki/Hollandsche_Schouwburg"
+            },
+            {
+              "title": "Anne Frank House — Hollandsche Schouwburg becomes a deportation centre",
+              "url": "https://www.annefrank.org/en/timeline/161/the-hollandsche-schouwburg-becomes-a-deportation-centre-for-jews/"
+            }
+          ]
+        },
+        {
+          "claim": "The crèche across the street (Plantage Middenlaan 31-33) held children awaiting deportation.",
+          "verified": true,
+          "amplification": "Children up to about 12 were separated from their parents and held in the crèche of the Joodsche Crèche directed by Henriëtte Henriques Pimentel. The teacher-training school next door (where the new Holocaust Museum now stands) was the lifeline by which children were smuggled out: they crossed the school's garden into the school itself and were then taken away in laundry baskets, knapsacks, even potato sacks. About 600 children were saved this way.",
+          "sources": [
+            {
+              "title": "Anne Frank House — Jewish children rescued",
+              "url": "https://www.annefrank.org/en/timeline/157/jewish-children-rescued-from-the-hollandsche-schouwburg/"
+            }
+          ]
+        },
+        {
+          "claim": "On 4 May 1962 the Schouwburg was dedicated as a memorial.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Wikipedia: Hollandsche Schouwburg",
+              "url": "https://en.wikipedia.org/wiki/Hollandsche_Schouwburg"
+            }
+          ]
+        },
+        {
+          "claim": "Nationaal Holocaustmuseum (National Holocaust Museum) opened 10 March 2024.",
+          "verified": true,
+          "amplification": "Opened by King Willem-Alexander. It is housed in the former Hervormde Kweekschool (Reformed Teacher-Training College, founded 1907) at Plantage Middenlaan 27 — the school whose principal Johan van Hulst helped Walter Süskind smuggle children to safety.",
+          "sources": [
+            {
+              "title": "Joods Cultureel Kwartier — Nationaal Holocaustmuseum",
+              "url": "https://jck.nl/locatie/nationaal-holocaustmuseum"
+            },
+            {
+              "title": "Tweedewereldoorlog.nl — Nationaal Holocaustmuseum en de Hollandsche Schouwburg",
+              "url": "https://www.tweedewereldoorlog.nl/musea/nationaal-holocaust-museum/"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/hollandsche-schouwburg.jpg",
+          "credit": "Wikipedia (en) — Hollandsche Schouwburg (CC license — see source)",
+          "source_url": "https://en.wikipedia.org/wiki/Hollandsche%20Schouwburg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hollandsche_Schouwburg.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-00.jpg",
+            "credit": "A. T. Rooswinkel (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:A_T_Rooswinkel,_Afb_010005001651.jpg",
+            "alt": "The Artis-Schouwburg theatre on Plantage Middenlaan, photographed in 1892, the year it opened.",
+            "note": "The Artis-Schouwburg in 1892, the year it opened as a Dutch-language theatre. It was renamed the Hollandsche Schouwburg in 1894 and was a popular venue for Dutch comedy, opera and operetta until 1941.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/A_T_Rooswinkel%2C_Afb_010005001651.jpg/1280px-A_T_Rooswinkel%2C_Afb_010005001651.jpg"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-01.png",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Herbert_Nelson_Reislectuur_1941.png",
+            "alt": "A 1941 advertisement for a performance at the Hollandsche Schouwburg in the Joodsche Weekblad.",
+            "note": "An October 1941 advertisement in the Joodsche Weekblad for a performance at the theatre. From August 1941 the Germans renamed it the 'Joodsche Schouwburg' and forced it to host only Jewish performers and audiences. From 20 July 1942 it became a deportation collection point.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Herbert_Nelson_Reislectuur_1941.png"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-02.png",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Herbert_Nelson_Hand_in_Hand_1941.png",
+            "alt": "Advertisement for the show “Hand in Hand” at the Joodsche Schouwburg, November 1941.",
+            "note": "Another November 1941 advertisement, when the Germans had forbidden Jews from visiting any other public entertainment venue. The same building was being prepared as the central collection point from which roughly 46,000 Dutch Jews would be sent to Westerbork.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Herbert_Nelson_Hand_in_Hand_1941.png"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-03.jpg",
+            "credit": "Joop van Bilsen for Anefo Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hollandse_schouwburg_wordt_ingericht_als_herdenkingsplaats_grote_zaal_waar_het_g,_Bestanddeelnr_911-6083.jpg",
+            "alt": "The interior of the Hollandsche Schouwburg being prepared as a memorial site, September 1960.",
+            "note": "The auditorium being converted into a memorial in September 1960. The architectural design — by J. Leupen and W. Vellinga — kept the front facade and side walls but tore out the seating, replacing the stage area with a basalt obelisk and an open-sky inner court covered in grass. The eternal flame at the front commemorates the Dutch Jews murdered in the Holocaust.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hollandse_schouwburg_wordt_ingericht_als_herdenkingsplaats_grote_zaal_waar_het_g%2C_Bestanddeelnr_911-6083.jpg/1280px-Hollandse_schouwburg_wordt_ingericht_als_herdenkingsplaats_grote_zaal_waar_het_g%2C_Bestanddeelnr_911-6083.jpg"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-04.jpg",
+            "credit": "Fotograaf Onbekend / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Demonstranten_leggen_bloemen_op_het_monument_in_de_Hollandsche_Schouwburg_aan_de,_Bestanddeelnr_919-6404.jpg",
+            "alt": "Demonstrators laying flowers at the memorial inside the Hollandsche Schouwburg, September 1966.",
+            "note": "Demonstrators of the Dutch Auschwitz Committee laying flowers at the Hollandsche Schouwburg memorial in September 1966 — protesting the proposed early release of Nazi war criminal Willy Lages, one of the men who organised deportations from this very building.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Demonstranten_leggen_bloemen_op_het_monument_in_de_Hollandsche_Schouwburg_aan_de%2C_Bestanddeelnr_919-6404.jpg/1280px-Demonstranten_leggen_bloemen_op_het_monument_in_de_Hollandsche_Schouwburg_aan_de%2C_Bestanddeelnr_919-6404.jpg"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-05.jpg",
+            "credit": "Rob Croes / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Herdenking_van_de_opstand_in_het_getto_van_Warschau_in_de_Hollandse_Schouwburg_i,_Bestanddeelnr_932-5553.jpg",
+            "alt": "Commemoration of the Warsaw Ghetto Uprising at the Hollandsche Schouwburg, April 1983.",
+            "note": "The 40th anniversary commemoration of the Warsaw Ghetto Uprising, held inside the Schouwburg in April 1983. The Hollandsche Schouwburg became the site of state-level commemorations of all Holocaust-related events, not just Dutch ones.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Herdenking_van_de_opstand_in_het_getto_van_Warschau_in_de_Hollandse_Schouwburg_i%2C_Bestanddeelnr_932-5553.jpg/1280px-Herdenking_van_de_opstand_in_het_getto_van_Warschau_in_de_Hollandse_Schouwburg_i%2C_Bestanddeelnr_932-5553.jpg"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-06.jpg",
+            "credit": "Hnapel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hollandsche_Schouwburg_2025.jpg",
+            "alt": "The facade of the Hollandsche Schouwburg in 2025, now part of the National Holocaust Museum.",
+            "note": "The facade in 2025. Since March 2024 the Schouwburg, the former Jewish Teacher Training College across the street, and the former crèche at no. 31 together form the new Nationaal Holocaust Museum, opened in the presence of the Dutch and Israeli royal families.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hollandsche_Schouwburg_2025.jpg/1280px-Hollandsche_Schouwburg_2025.jpg"
+          },
+          {
+            "url": "assets/img/gallery/hollandsche-schouwburg-07.jpg",
+            "credit": "P.H. Louw (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hollandse_Schouwburg2_(Amsterdam).JPG",
+            "alt": "Inner courtyard of the Hollandsche Schouwburg with the basalt obelisk by Sem Hartz and L.H.P. Waterman.",
+            "note": "The inner court today, with the obelisk designed by Sem Hartz and L. H. P. Waterman. The empty space behind the facade — where the auditorium once stood — is intentional: families were held here for days or weeks waiting for transport, and the missing volume above is a kind of architectural negative space.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hollandse_Schouwburg2_%28Amsterdam%29.JPG/1280px-Hollandse_Schouwburg2_%28Amsterdam%29.JPG"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Joods Cultureel Kwartier — Hollandsche Schouwburg",
+          "url": "https://jck.nl/en/location/hollandsche-schouwburg"
+        },
+        {
+          "title": "Joods Cultureel Kwartier — Nationaal Holocaustmuseum",
+          "url": "https://jck.nl/locatie/nationaal-holocaustmuseum"
+        },
+        {
+          "title": "Wikipedia: Hollandsche Schouwburg",
+          "url": "https://en.wikipedia.org/wiki/Hollandsche_Schouwburg"
+        },
+        {
+          "title": "Anne Frank House — Hollandsche Schouwburg knowledge base",
+          "url": "https://research.annefrank.org/en/locaties/1de1b26d-4fdd-43a7-b6ab-ea1cd5f39e96/"
+        },
+        {
+          "title": "Verzetsmuseum — The Hollandsche Schouwburg",
+          "url": "https://www.verzetsmuseum.org/en/kennisbank/de-hollandsche-schouwburg-1"
+        }
+      ]
+    },
+    {
+      "id": "suskind",
+      "number": 11,
+      "title": "Walter Süskind & the children of the crèche",
+      "title_nl": "Walter Süskind",
+      "subtitle": "About 600 children smuggled out of the deportation crèche, 1942-43",
+      "address": "Crèche site: Plantage Middenlaan 31-33; teacher-training school: Plantage Middenlaan 27",
+      "coords": [
+        52.36644,
+        4.91139
+      ],
+      "summary": "Walter Süskind (29 October 1906 – 28 February 1945) was a German Jew who had moved to Amsterdam in 1938 to escape Nazi Germany. Forced by the Jewish Council to administer the Hollandsche Schouwburg's deportation operations, he used the position to falsify the index cards of children held in the crèche across the street so they could be removed from the lists undetected. Working with crèche director Henriëtte Pimentel, Schouwburg administrator Felix Halverstad, teacher-training principal Johan van Hulst, and Utrecht student Piet Meerburg's network, he saved roughly 600 children — they were carried out of the crèche in laundry baskets, shopping bags and over the school's garden wall, then dispersed to hiding places across the country. In September 1943 Süskind was deported to Westerbork, then Theresienstadt; he died in late February 1945 on a death march. His wife Johanna and daughter Yvonne were murdered at Auschwitz.",
+      "facts": [
+        {
+          "claim": "Walter Süskind: born 29 October 1906, Lüdenscheid, Germany; died 28 February 1945.",
+          "verified": true,
+          "amplification": "His exact place of death is unknown — most likely on a death march from Auschwitz westward in late February 1945. His name was for years dishonoured in some quarters because his role compelled him to administer the deportation system; later research and the 2012 film 'Süskind' (dir. Rudolf van den Berg) have re-established him as a resistance hero.",
+          "sources": [
+            {
+              "title": "Wikipedia: Walter Süskind",
+              "url": "https://en.wikipedia.org/wiki/Walter_S%C3%BCskind"
+            }
+          ]
+        },
+        {
+          "claim": "Approximately 600 children rescued.",
+          "verified": true,
+          "amplification": "Estimates range from 600 to nearly 1,000 (the documentary 'Secret Courage' uses the higher figure including the broader network's reach). 600 is the most commonly cited and conservative number.",
+          "sources": [
+            {
+              "title": "Wikipedia: Walter Süskind",
+              "url": "https://en.wikipedia.org/wiki/Walter_S%C3%BCskind"
+            },
+            {
+              "title": "Anne Frank House — Jewish children rescued",
+              "url": "https://www.annefrank.org/en/timeline/157/jewish-children-rescued-from-the-hollandsche-schouwburg/"
+            }
+          ]
+        },
+        {
+          "claim": "Pimentel and van Hulst were essential collaborators.",
+          "verified": true,
+          "amplification": "Henriëtte Pimentel (1876-1943) was the director of the crèche; she was deported to Auschwitz in July 1943 and murdered there on 17 September 1943. Johan van Hulst (1911-2018) was the head of the Reformed Teacher-Training School next door and was named Righteous Among the Nations by Yad Vashem in 1972. Felix Halverstad (1900-1944) — Süskind's bookkeeper accomplice — survived the war.",
+          "sources": [
+            {
+              "title": "Wikipedia: Walter Süskind",
+              "url": "https://en.wikipedia.org/wiki/Walter_S%C3%BCskind"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/suskind.jpg",
+          "credit": "Wikimedia Commons — Stolperstein für Walter Süskind (Bergen op Zoom).jpg (CC license — see source)",
+          "source_url": "https://commons.wikimedia.org/wiki/File%3AStolperstein%20f%C3%BCr%20Walter%20S%C3%BCskind%20%28Bergen%20op%20Zoom%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Stolperstein_f%C3%BCr_Walter_S%C3%BCskind_%28Bergen_op_Zoom%29.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/suskind-00.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Kinderverzorgster_van_de_joodse_creche_aan_de_Plantage_Middenlaan_in_Amsterdam_voert_de_kinderen.jpg",
+            "alt": "A nurse feeds the children at the Jewish crèche on Plantage Middenlaan, c.1940.",
+            "note": "A nurse feeds the youngest children at the crèche at Plantage Middenlaan 31, around 1940 — at this point still a normal daycare. From October 1942, when babies and small children were separated from their parents in the Hollandsche Schouwburg across the street and held here, this room was where Walter Süskind, director Henriëtte Pimentel, and Johan van Hulst hid and smuggled out roughly 600 children.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinderverzorgster_van_de_joodse_creche_aan_de_Plantage_Middenlaan_in_Amsterdam_voert_de_kinderen.jpg/1280px-Kinderverzorgster_van_de_joodse_creche_aan_de_Plantage_Middenlaan_in_Amsterdam_voert_de_kinderen.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-01.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Slaapzaal_van_De_Creche_aan_de_Plantage_Middenlaan,_circa_1942.jpg",
+            "alt": "The dormitory of the crèche on Plantage Middenlaan, around 1942.",
+            "note": "The dormitory at the crèche, c.1942. The smuggling worked by exploiting the streetcar that stopped between the crèche and the Schouwburg: when the tram blocked the German guards' line of sight, helpers walked or cycled away with babies hidden in shopping bags, knapsacks, or laundry baskets.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Slaapzaal_van_De_Creche_aan_de_Plantage_Middenlaan%2C_circa_1942.jpg/1280px-Slaapzaal_van_De_Creche_aan_de_Plantage_Middenlaan%2C_circa_1942.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-02.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Kinderen_uit_de_creche_aan_de_Plantage_Middenlaan_in_Amsterdam_achter_bankjes,_circa_1942.jpg",
+            "alt": "Children at the Jewish crèche on Plantage Middenlaan, c.1942.",
+            "note": "Children at the crèche, c.1942 — many of these children would themselves be deported. Süskind, a German-Jewish refugee himself, manipulated the deportation registers: when a child was rescued, he tore out the corresponding card so that the German bookkeeping showed the right total, and no one would notice that one fewer child boarded the train.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kinderen_uit_de_creche_aan_de_Plantage_Middenlaan_in_Amsterdam_achter_bankjes%2C_circa_1942.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-03.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Het_jongetje_Sally_de_Leeuw_in_de_Creche_aan_de_Plantage_Middenlaan_in_Amsterdam.jpg",
+            "alt": "Sally de Leeuw, one of the children at the crèche on Plantage Middenlaan, c.1942.",
+            "note": "A photograph of Sally de Leeuw, one of the named children at the crèche around 1942. The fate of any individual child often turned on chance: whether parents would consent to be separated from a child for hiding (many refused), and whether a Dutch foster family could be found who would take a Jewish baby.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Het_jongetje_Sally_de_Leeuw_in_de_Creche_aan_de_Plantage_Middenlaan_in_Amsterdam.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-04.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Kinderverzorgster_Hetty_van_Opstal_met_het_meisje_Hanna_Reimer_in_de_creche_aan_de_Plantage_Middenlaan_in_Amsterdam.jpg",
+            "alt": "Childminder Hetty van Opstal holding little Hanna Reimer at the crèche, c.1942.",
+            "note": "Childminder Hetty van Opstal holding Hanna Reimer at the crèche around 1942. The young Dutch women working at the crèche — many under 25 — kept the smuggling network running on day shifts; at night Süskind would deal with the German registry. Around 600 children were saved; many caregivers were themselves later deported.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kinderverzorgster_Hetty_van_Opstal_met_het_meisje_Hanna_Reimer_in_de_creche_aan_de_Plantage_Middenlaan_in_Amsterdam.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-05.jpg",
+            "credit": "Alf van Beem (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Plantage_Middenlaan_27.JPG",
+            "alt": "The former Jewish Teacher Training College at Plantage Middenlaan 27.",
+            "note": "The former Jewish Teacher Training College (Hervormde Kweekschool) at Plantage Middenlaan 27. Its director, Johan van Hulst, allowed children from the crèche next door to be smuggled into his school, then over the back garden wall to waiting couriers. Van Hulst was later honoured as Righteous Among the Nations.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Plantage_Middenlaan_27.JPG/1280px-Plantage_Middenlaan_27.JPG"
+          },
+          {
+            "url": "assets/img/gallery/suskind-06.jpg",
+            "credit": "Hanno Lans (CC BY 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Nationaal_Holocaust_Museum_01.jpg",
+            "alt": "Memorial plaque on the facade of the National Holocaust Museum at Plantage Middenlaan 27.",
+            "note": "The memorial plaque on the museum facade reads (in translation): 'To all who during the German occupation have helped to save these children.' The figures of 600+ saved children include those rescued by Süskind, Pimentel, Van Hulst and the network around them.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nationaal_Holocaust_Museum_01.jpg/1280px-Nationaal_Holocaust_Museum_01.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-07.jpg",
+            "credit": "Rob Croes / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N,_Bestanddeelnr_925-8433.jpg",
+            "alt": "Unveiling of the Walter Süskind memorial plaque on bridge 237, August 1972.",
+            "note": "The unveiling of the memorial plaque on bridge 237 (the future Walter Süskindbrug) on 30 August 1972. Süskind himself did not survive: he was deported with his family in September 1944 and died on a death march in early 1945, having refused multiple chances to escape.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N%2C_Bestanddeelnr_925-8433.jpg/1280px-Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N%2C_Bestanddeelnr_925-8433.jpg"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Süskind (2012 feature film, dir. Rudolf van den Berg) — official trailer",
+            "youtube_id": "",
+            "source_url": "https://www.imdb.com/title/tt1609159/"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "Wikipedia: Walter Süskind",
+          "url": "https://en.wikipedia.org/wiki/Walter_S%C3%BCskind"
+        },
+        {
+          "title": "Anne Frank House — Jewish children rescued from the Hollandsche Schouwburg",
+          "url": "https://www.annefrank.org/en/timeline/157/jewish-children-rescued-from-the-hollandsche-schouwburg/"
+        },
+        {
+          "title": "Verzetsmuseum — Smuggling out children",
+          "url": "https://www.verzetsmuseum.org/en/knowledgebase/smuggling-out"
+        },
+        {
+          "title": "Yad Vashem — Secret Courage: The Walter Suskind Story",
+          "url": "https://collections.yadvashem.org/en/movies/5910769"
+        }
+      ]
+    },
+    {
+      "id": "population-register-attack",
+      "number": 12,
+      "title": "Attack on the Amsterdam Civil Registry",
+      "title_nl": "Aanslag op het Amsterdamse Bevolkingsregister",
+      "subtitle": "27 March 1943",
+      "address": "Plantage Kerklaan 36 (now part of the Verzetsmuseum's neighbourhood), 1018 CZ Amsterdam",
+      "coords": [
+        52.36833,
+        4.91306
+      ],
+      "summary": "On the night of Saturday 27 March 1943, a resistance group of nine — led by sculptor Gerrit van der Veen and the painter and writer Willem Arondeus, and including the lesbian cellist Frieda Belinfande and the future Stedelijk Museum director Willem Sandberg — entered the Amsterdam population register dressed as Dutch police officers. Two medical students sedated the guards with phenobarbital injections; the unconscious guards were carried into the adjoining Artis zoo grounds. Files were doused with benzene, explosives placed, and shortly after 11 pm the building was wracked by detonations. The Dutch fire brigade — tipped off in advance — delayed and then deliberately doused everything with water. Even so, only about 15% of the registry's roughly 800,000 cards were completely destroyed. Within a week most of the conspirators had been betrayed; twelve, including Arondeus, were executed at Overveen on 2 July 1943. Arondeus's last message, requested through his lawyer, was: 'Tell people that homosexuals are not cowards.' Van der Veen escaped, continued resisting, was caught and shot on 10 June 1944.",
+      "facts": [
+        {
+          "claim": "Date: night of 27 March 1943.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Wikipedia: 1943 Amsterdam civil registry office bombing",
+              "url": "https://en.wikipedia.org/wiki/1943_bombing_of_the_Amsterdam_civil_registry_office"
+            }
+          ]
+        },
+        {
+          "claim": "Gerrit van der Veen and Willem Arondeus led the operation.",
+          "verified": true,
+          "amplification": "The principal organiser was Willem Arondeus (1894–1943); Gerrit van der Veen was the operational leader. Arondeus is now widely remembered as one of the few openly gay heroes of European resistance.",
+          "sources": [
+            {
+              "title": "Wikipedia: Willem Arondeus",
+              "url": "https://en.wikipedia.org/wiki/Willem_Arondeus"
+            },
+            {
+              "title": "Wikipedia: 1943 Amsterdam civil registry office bombing",
+              "url": "https://en.wikipedia.org/wiki/1943_bombing_of_the_Amsterdam_civil_registry_office"
+            }
+          ]
+        },
+        {
+          "claim": "Guards were sedated and laid down at Artis Zoo.",
+          "verified": true,
+          "amplification": "The guards, taken to Artis Zoo, were given phenobarbital injections by two medical students; the unconscious guards were carried out of harm's way into the zoo grounds before the explosives went off.",
+          "sources": [
+            {
+              "title": "Wikipedia: 1943 Amsterdam civil registry office bombing",
+              "url": "https://en.wikipedia.org/wiki/1943_bombing_of_the_Amsterdam_civil_registry_office"
+            }
+          ]
+        },
+        {
+          "claim": "Of those involved, twelve were executed on 2 July 1943.",
+          "verified": true,
+          "amplification": "Of 14 originally sentenced to death, 12 were executed at the dunes near Overveen; the remaining two were granted clemency. Van der Veen escaped this round-up but was shot on 10 June 1944 after a separate prison-raid attempt.",
+          "sources": [
+            {
+              "title": "Wikipedia: 1943 Amsterdam civil registry office bombing",
+              "url": "https://en.wikipedia.org/wiki/1943_bombing_of_the_Amsterdam_civil_registry_office"
+            }
+          ]
+        },
+        {
+          "claim": "About 15% of records were completely destroyed; 800,000 identity cards were directly affected.",
+          "verified": true,
+          "amplification": "The action did not achieve its full goal — the fire brigade, ironically friendly to the resistance, soaked many of the records but could not destroy them — but the resulting administrative chaos genuinely did save many lives.",
+          "sources": [
+            {
+              "title": "Wikipedia: 1943 Amsterdam civil registry office bombing",
+              "url": "https://en.wikipedia.org/wiki/1943_bombing_of_the_Amsterdam_civil_registry_office"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/population-register-attack.jpg",
+          "credit": "Wikimedia Commons — Amsterdam - Plantage Kerklaan vml bevolkingsregister.JPG (CC license — see source)",
+          "source_url": "https://commons.wikimedia.org/wiki/File%3AAmsterdam%20-%20Plantage%20Kerklaan%20vml%20bevolkingsregister.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amsterdam_-_Plantage_Kerklaan_vml_bevolkingsregister.JPG/1920px-Amsterdam_-_Plantage_Kerklaan_vml_bevolkingsregister.JPG"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/population-register-attack-00.jpg",
+            "credit": "Politie Amsterdam (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Brandaanslag_op_Amsterdams_Bevolkingsregister;_de_dag_erna_28_maart_1943.jpg",
+            "alt": "Interior of the Amsterdam Civil Registry the day after the firebombing of 27–28 March 1943.",
+            "note": "The interior of the bevolkingsregister at Plantage Kerklaan 36 the morning after the attack, 28 March 1943. The resistance group, dressed as policemen, drugged the guards, set incendiary devices and called the fire brigade — who were instructed to flood the records rather than save them. Roughly 15% of the city's records were destroyed.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brandaanslag_op_Amsterdams_Bevolkingsregister%3B_de_dag_erna_28_maart_1943.jpg/1280px-Brandaanslag_op_Amsterdams_Bevolkingsregister%3B_de_dag_erna_28_maart_1943.jpg"
+          },
+          {
+            "url": "assets/img/gallery/population-register-attack-01.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Willem_Arondeus.jpg",
+            "alt": "Portrait of Willem Arondéus, leader of the attack on the Amsterdam Civil Registry.",
+            "note": "Willem Arondéus (1894–1943), the artist and writer who led the attack. Openly gay, he wrote in a final letter from prison: 'Let it be known that homosexuals are not cowards.' He was executed by firing squad on 1 July 1943 along with eleven of his co-conspirators.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Willem_Arondeus.jpg"
+          },
+          {
+            "url": "assets/img/gallery/population-register-attack-02.jpg",
+            "credit": "Willem Arondéus (1894 -1943) (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Willem_Arond%C3%A9us_-_potloodtekening.jpg",
+            "alt": "A pencil drawing by Willem Arondéus, before 1943.",
+            "note": "A pre-war pencil drawing by Arondéus, who supported himself as a book-illustrator and biographer. He brought together a group including the lesbian cellist Frieda Belinfante (one of the few women in Dutch armed resistance), the historian Sjoerd Bakker, and around a dozen others — some Jewish, several gay — for the registry attack.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Willem_Arond%C3%A9us_-_potloodtekening.jpg"
+          },
+          {
+            "url": "assets/img/gallery/population-register-attack-03.jpg",
+            "credit": "Jack de Nijs for Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Herdenking_aanslag_op_Bevolkingsregister._Dhr._Berkovich_een_van_de_overlevenden,_Bestanddeelnr_921-1992.jpg",
+            "alt": "A survivor of the registry attack, Mr Berkovich, at the 25-year commemoration in 1968.",
+            "note": "Mr Berkovich, one of the few survivors of the resistance group, at the 25-year commemoration on 27 March 1968. Twelve of those involved were executed at the Bloemendaal dunes; only Frieda Belinfante (who had fled to Switzerland disguised as a man) and a handful of others survived the war.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Herdenking_aanslag_op_Bevolkingsregister._Dhr._Berkovich_een_van_de_overlevenden%2C_Bestanddeelnr_921-1992.jpg/1280px-Herdenking_aanslag_op_Bevolkingsregister._Dhr._Berkovich_een_van_de_overlevenden%2C_Bestanddeelnr_921-1992.jpg"
+          },
+          {
+            "url": "assets/img/gallery/population-register-attack-04.jpg",
+            "credit": "Jack de Nijs for Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Herdenking_aanslag_op_Bevolkingsregister._Overzicht_kranslegging_25_jaar_geleden,_Bestanddeelnr_921-1991.jpg",
+            "alt": "Wreath-laying at the 25-year commemoration of the attack on the Amsterdam Civil Registry, 27 March 1968.",
+            "note": "Wreath-laying at Plantage Kerklaan on 27 March 1968. The attack significantly hampered German efforts to track down Jews in hiding (onderduikers), as forged identity cards could no longer be checked against the original registry.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Herdenking_aanslag_op_Bevolkingsregister._Overzicht_kranslegging_25_jaar_geleden%2C_Bestanddeelnr_921-1991.jpg/1280px-Herdenking_aanslag_op_Bevolkingsregister._Overzicht_kranslegging_25_jaar_geleden%2C_Bestanddeelnr_921-1991.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia: 1943 Amsterdam civil registry office bombing",
+          "url": "https://en.wikipedia.org/wiki/1943_bombing_of_the_Amsterdam_civil_registry_office"
+        },
+        {
+          "title": "Wikipedia: Willem Arondeus",
+          "url": "https://en.wikipedia.org/wiki/Willem_Arondeus"
+        },
+        {
+          "title": "Anne Frank House — Resistance attacks the population register",
+          "url": "https://www.annefrank.org/en/timeline/128/the-resistance-attacks-the-population-register-of-amsterdam/"
+        },
+        {
+          "title": "Verzetsmuseum — Armed resistance",
+          "url": "https://www.verzetsmuseum.org/en/kennisbank/armed-resistance-1"
+        },
+        {
+          "title": "Hans de Zwart — During WWII we did have something to hide",
+          "url": "https://medium.com/@hansdezwart/during-world-war-ii-we-did-have-something-to-hide-40689565c550"
+        }
+      ]
+    },
+    {
+      "id": "verzetsmuseum",
+      "number": 13,
+      "title": "Dutch Resistance Museum",
+      "title_nl": "Verzetsmuseum",
+      "subtitle": "Founded 1984; permanent home in the Plancius Building since 1999",
+      "address": "Plantage Kerklaan 61, 1018 CX Amsterdam",
+      "coords": [
+        52.36778,
+        4.91278
+      ],
+      "summary": "Voted best historical museum in the Netherlands. The Verzetsmuseum tells the story of the Netherlands under Nazi occupation through the dilemmas faced by ordinary people: collaborate, resist, or look away. Through 100 personal stories, replica streets, original artefacts and recorded testimony, it portrays daily life from the May 1940 invasion to the Liberation. The current building dates from 1876 — built by the Jewish choral society Oefening Baart Kunst as a cultural centre and synagogue. The museum opened here in 1999; the wholly redesigned permanent exhibition opened on 1 December 2022.",
+      "facts": [
+        {
+          "claim": "Address: Plantage Kerklaan 61.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Verzetsmuseum — Address",
+              "url": "https://www.verzetsmuseum.org/en/address-and-opening-hours"
+            }
+          ]
+        },
+        {
+          "claim": "Founded as a museum in 1984; moved to the Plancius Building in 1999.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Verzetsmuseum — History of the museum",
+              "url": "https://www.verzetsmuseum.org/en/history-of-the-museum"
+            },
+            {
+              "title": "Wikipedia: Verzetsmuseum",
+              "url": "https://en.wikipedia.org/wiki/Verzetsmuseum"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/verzetsmuseum.jpg",
+          "credit": "Wikipedia (en) — Verzetsmuseum (CC license — see source)",
+          "source_url": "https://en.wikipedia.org/wiki/Verzetsmuseum",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gepleisterde_gevel_met_ingangspartij_en_op_geveltop_een_kleine_Davidster_-_Amsterdam_-_20408986_-_RCE.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/verzetsmuseum-00.jpg",
+            "credit": "Rob Bogaerts / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Morgen_opening_Verzetsmuseum_Amsterdam_in_voormalige_synagoge_Lekstraat_interie,_Bestanddeelnr_933-4872.jpg",
+            "alt": "Interior of the Verzetsmuseum at its 1985 opening in the former Lekstraat synagogue.",
+            "note": "The interior of the Dutch Resistance Museum on the eve of its opening in November 1985. The museum first occupied the former Lekstraat Synagogue (built 1937) and moved to its current home in Plantage Kerklaan — the former Plancius cultural society building — in 1999.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Morgen_opening_Verzetsmuseum_Amsterdam_in_voormalige_synagoge_Lekstraat_interie%2C_Bestanddeelnr_933-4872.jpg/1280px-Morgen_opening_Verzetsmuseum_Amsterdam_in_voormalige_synagoge_Lekstraat_interie%2C_Bestanddeelnr_933-4872.jpg"
+          },
+          {
+            "url": "assets/img/gallery/verzetsmuseum-01.jpg",
+            "credit": "Bart Molendijk / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Den_Uyl_opent_tent.Het_illegale_Vrij_Nederland_in_het_Verzetsmuseum_in_Amsterd,_Bestanddeelnr_934-0921.jpg",
+            "alt": "Former PM Joop den Uyl opens an exhibition on the underground newspaper Vrij Nederland, October 1987.",
+            "note": "Former Prime Minister Joop den Uyl (with historian Loe de Jong) opens an exhibition on the illegal wartime press at the Verzetsmuseum, October 1987. Vrij Nederland, founded as an underground paper in August 1940, is still published today as a major Dutch news magazine.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Den_Uyl_opent_tent.Het_illegale_Vrij_Nederland_in_het_Verzetsmuseum_in_Amsterd%2C_Bestanddeelnr_934-0921.jpg/1280px-Den_Uyl_opent_tent.Het_illegale_Vrij_Nederland_in_het_Verzetsmuseum_in_Amsterd%2C_Bestanddeelnr_934-0921.jpg"
+          },
+          {
+            "url": "assets/img/gallery/verzetsmuseum-02.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:JanKarelBoissevain1943.jpg",
+            "alt": "Police prison photograph of resistance fighter Jan Karel ‘Janka’ Boissevain, August 1943.",
+            "note": "The prison photograph of Jan Karel ('Janka') Boissevain, taken in August 1943. From a prominent Amsterdam family, Boissevain was a member of CS-6 (named after the family home at Corellistraat 6), one of the most active armed resistance groups. He was executed at the Sachsenhausen concentration camp in October 1943.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/JanKarelBoissevain1943.jpg"
+          },
+          {
+            "url": "assets/img/gallery/verzetsmuseum-03.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:HestervanLennep1944.jpg",
+            "alt": "Hester van Lennep at her clandestine wartime wedding, 20 January 1944.",
+            "note": "Hester Juliana Octavia van Lennep at her secret wartime wedding to Sandor Baracs, 20 January 1944. The photograph is from the 'Oranje Album' (also called 'Je Maintiendrai'), a clandestine scrapbook of 33 photos, captions and smuggled notes that documented resistance life — and is one of the museum's signature artefacts.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HestervanLennep1944.jpg"
+          },
+          {
+            "url": "assets/img/gallery/verzetsmuseum-04.jpg",
+            "credit": "unknown photographer (passport photograph} (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:LeoFrijda.jpg",
+            "alt": "Portrait of Leo Frijda, member of the CS-6 resistance group, executed October 1943.",
+            "note": "Leo Frijda, one of the youngest members of CS-6. Frijda took part in the assassination of NSB leader H. A. Seyffardt on 5 February 1943; he was caught, tortured at the Euterpestraat headquarters of the Sicherheitsdienst, and executed on 30 October 1943, aged 19.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/LeoFrijda.jpg"
+          },
+          {
+            "url": "assets/img/gallery/verzetsmuseum-05.jpg",
+            "credit": "Rob Croes / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:NL-HaNA_2.24.01.05_0_934-0040.jpg",
+            "alt": "East German leader Erich Honecker visits the Verzetsmuseum, June 1987.",
+            "note": "East German leader Erich Honecker visits the Verzetsmuseum, June 1987. The museum's permanent exhibition covers the major Dutch responses to the German occupation: collaboration, accommodation, and resistance — and asks visitors to consider what they themselves would have done.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NL-HaNA_2.24.01.05_0_934-0040.jpg/1280px-NL-HaNA_2.24.01.05_0_934-0040.jpg"
+          },
+          {
+            "url": "assets/img/gallery/verzetsmuseum-06.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Frits_Moquette,_negentiende-eeuws_Nederlands_abolitionist.jpg",
+            "alt": "Portrait of Frits Moquette, 19th-century Dutch abolitionist (in the museum collection).",
+            "note": "F. J. P. Moquette, a 19th-century Dutch anti-slavery activist, from the museum's broader collection. The Verzetsmuseum's expanded mission also covers Dutch resistance to colonial-era oppression, the wars of the 20th century, and human-rights movements through to the present.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Frits_Moquette%2C_negentiende-eeuws_Nederlands_abolitionist.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Verzetsmuseum (official)",
+          "url": "https://www.verzetsmuseum.org/en"
+        },
+        {
+          "title": "Verzetsmuseum — The Netherlands in WWII (knowledge base)",
+          "url": "https://www.verzetsmuseum.org/en/world-war-ii-in-the-netherlands"
+        },
+        {
+          "title": "Wikipedia: Verzetsmuseum",
+          "url": "https://en.wikipedia.org/wiki/Verzetsmuseum"
+        }
+      ]
+    },
+    {
+      "id": "artis-zoo",
+      "number": 14,
+      "title": "Artis Royal Zoo — hiding place for onderduikers",
+      "title_nl": "Artis (Natura Artis Magistra)",
+      "subtitle": "Founded 1838; under director Armand Sunier hid 200-300 people during the war",
+      "address": "Plantage Kerklaan 38-40, 1018 CZ Amsterdam",
+      "coords": [
+        52.36694,
+        4.91639
+      ],
+      "summary": "Founded in 1838, Artis is the oldest zoo in the Netherlands and one of the oldest in continental Europe. From September 1941 the zoo was forbidden to Jews. From 1942-45, under director Armand Louis Jean Sunier (1886-1974), some 200-300 people sheltered here as onderduikers ('divers' — those in hiding). They included Jews, resistance members, young men evading the Arbeitseinsatz forced-labour conscription, and entire families. They hid in attic spaces above the predator gallery, in the Monkey Rock, in the Bokken Rock and elsewhere — with caretaker Van Schalkwijk laying a plank over the moat to give access to the Monkey Rock. The most famous resident was Duifje van den Brink-Raphael (1882-1965), a Jewish woman who lived four years inside Artis: she slept in the wolves' enclosure at night and during the day, German-speaking and refusing to wear the yellow star, gave guided tours of the zoo — sometimes to German soldiers. Remarkably, no person hidden in Artis was ever caught.",
+      "facts": [
+        {
+          "claim": "The director during the war was Armand Sunier.",
+          "verified": true,
+          "amplification": "Full name: Armand Louis Jean Sunier (1886-1974). He was Artis's third director, in post 1927-1953. Internationally known as a saviour of the European bison (wisent) — he co-launched the wisent stud-book in 1931 when only 56 specimens remained. He was not himself active in the resistance but maintained a 'pragmatic' surface relationship with the German authorities while quietly admitting onderduikers.",
+          "sources": [
+            {
+              "title": "Artis — Sunier and the wisent",
+              "url": "https://www.artis.nl/en/artis-zoo/what-to-explore-in-artis-zoo/sunier-and-wisent"
+            },
+            {
+              "title": "The Low Countries — The Amsterdam Zoo as a hiding place",
+              "url": "https://www.the-low-countries.com/article/artis/"
+            }
+          ]
+        },
+        {
+          "claim": "200-300 people hid in Artis during the war; none were caught.",
+          "verified": true,
+          "sources": [
+            {
+              "title": "Jewish Virtual Museum — Artis during WWII",
+              "url": "https://www.jewishvirtualmuseum.com/tag/artis-tijdens-wo2-en/"
+            },
+            {
+              "title": "ONH — Hoe Artis de Tweede Wereldoorlog doorkwam",
+              "url": "https://onh.nl/verhaal/hoe-artis-de-tweede-wereldoorlog-doorkwam"
+            }
+          ]
+        },
+        {
+          "claim": "Duifje van den Brink slept in the wolves' enclosure.",
+          "verified": true,
+          "amplification": "Duifje (Dove) van den Brink-Raphael (1882-1965) — a German-speaking Jewish woman from Ouder-Amstel — hid in Artis for four years, slept in the wolf house, and during the day mingled with visitors. She is documented giving tours in German to soldiers who frequented the zoo.",
+          "sources": [
+            {
+              "title": "Joods Amsterdam — Duif van den Brink-Raphael",
+              "url": "https://www.joodsamsterdam.nl/duif-van-der-brink/"
+            },
+            {
+              "title": "Maarten Frankenhuis — Artis en haar onderduikers",
+              "url": "http://www.maartenfrankenhuis.nl/publicaties-en-teksten/artis-en-haar-onderduikers/"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/artis-zoo.jpg",
+          "credit": "Wikimedia Commons — Artis ingang (ansichtkaart, kleur).jpg (CC license — see source)",
+          "source_url": "https://commons.wikimedia.org/wiki/File%3AArtis%20ingang%20%28ansichtkaart%2C%20kleur%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Artis_ingang_%28ansichtkaart%2C_kleur%29.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/artis-zoo-00.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Artis,_SFA022814246.jpg",
+            "alt": "Visitors to Artis Zoo in 1910 — two women and three children.",
+            "note": "Visitors to Artis in 1910. Founded in 1838 as 'Natura Artis Magistra', Amsterdam's zoo is the oldest in the Netherlands and the third-oldest in the world. During the German occupation, the zoo became an unlikely refuge: the network around director Armand Sunier hid roughly 200–300 people on the grounds.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Artis%2C_SFA022814246.jpg/1280px-Artis%2C_SFA022814246.jpg"
+          },
+          {
+            "url": "assets/img/gallery/artis-zoo-01.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Artis,_SFA022814247.jpg",
+            "alt": "A keeper at the lion enclosure at Artis Zoo, 1917.",
+            "note": "A keeper at the lion enclosure in 1917. During the war, Artis hid Jews in the attic of the wolf house, in a hiding place behind the monkey rock, and in the basements of the staff buildings. Many onderduikers (people in hiding) lived for months in spaces only the keepers could access.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Artis%2C_SFA022814247.jpg/1280px-Artis%2C_SFA022814247.jpg"
+          },
+          {
+            "url": "assets/img/gallery/artis-zoo-02.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Artis,_SFA022814252.jpg",
+            "alt": "View of the bird house at Artis Zoo with its surrounding pond, 1911.",
+            "note": "The bird house in 1911. The zoo's strange wartime function — half park, half clandestine refuge — was possible because the German occupier allowed the zoo to remain open. Visitors and keepers alike provided cover; food intended for the animals also fed the people in hiding.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Artis%2C_SFA022814252.jpg/1280px-Artis%2C_SFA022814252.jpg"
+          },
+          {
+            "url": "assets/img/gallery/artis-zoo-03.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Artis,_SFA022814254.jpg",
+            "alt": "A silver heron and ibis at Artis, 1913.",
+            "note": "Silver herons and an ibis in 1913. By the late occupation many of the zoo's larger animals had been culled or eaten — but the keepers protected the smaller ones, and the Hongerwinter (Hunger Winter) of 1944–45 saw the zoo opened as a soup kitchen for starving Amsterdammers as well.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Artis%2C_SFA022814254.jpg/1280px-Artis%2C_SFA022814254.jpg"
+          },
+          {
+            "url": "assets/img/gallery/artis-zoo-04.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Artis,_SFA022814259.jpg",
+            "alt": "Rough-legged hawk at the Artis bird house, 1913.",
+            "note": "A rough-legged hawk in the zoo's bird house, 1913. The story of the wartime onderduikers at Artis was largely undocumented until decades after the war: keepers and rescuers had hidden their work even from each other, and survivors only began coming forward in the 1990s.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Artis%2C_SFA022814259.jpg/1280px-Artis%2C_SFA022814259.jpg"
+          },
+          {
+            "url": "assets/img/gallery/artis-zoo-05.jpg",
+            "credit": "Unknown photographer (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Artis,_SFA022814260.jpg",
+            "alt": "Interior of the Artis bird house decorated with palms and potted plants, 1913.",
+            "note": "The decorated bird-house interior, 1913. Artis is now a city-centre nature complex with its zoo, the Micropia microbe museum, the Groote Museum (cultural natural history), an aquarium and a planetarium — all in the same Plantage neighbourhood that was the heart of Jewish Amsterdam.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Artis%2C_SFA022814260.jpg/1280px-Artis%2C_SFA022814260.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Artis Royal Zoo (official)",
+          "url": "https://www.artis.nl/en"
+        },
+        {
+          "title": "Artis — Sunier and the wisent",
+          "url": "https://www.artis.nl/en/artis-zoo/what-to-explore-in-artis-zoo/sunier-and-wisent"
+        },
+        {
+          "title": "The Low Countries — Artis as hiding place",
+          "url": "https://www.the-low-countries.com/article/artis/"
+        },
+        {
+          "title": "Joods Amsterdam — Duifje van den Brink",
+          "url": "https://www.joodsamsterdam.nl/duif-van-der-brink/"
+        },
+        {
+          "title": "ONH — Artis in WWII",
+          "url": "https://onh.nl/verhaal/hoe-artis-de-tweede-wereldoorlog-doorkwam"
+        }
+      ]
+    },
+    {
+      "id": "auschwitz-monument",
+      "number": 15,
+      "title": "Auschwitz Monument — 'Nooit meer Auschwitz'",
+      "title_nl": "Spiegelmonument 'Nooit meer Auschwitz'",
+      "subtitle": "Jan Wolkers — designed 1977, current Wertheimpark version unveiled 1993",
+      "address": "Wertheimpark, Plantage Middenlaan 1, 1018 DA Amsterdam",
+      "coords": [
+        52.36778,
+        4.90889
+      ],
+      "summary": "Six panels of fractured mirror glass, set flat in a steel frame in the lawn of the Wertheimpark, with a narrow vertical pane at one end etched 'Nooit meer Auschwitz' (Never Again Auschwitz). Buried beneath the panels is an urn containing the ashes of Auschwitz victims (collected at the camp by a Dutch delegation in January 1952). Designer Jan Wolkers (1925-2007) — better known as one of the major Dutch novelists of the 20th century — refused to make a representational monument with figures behind bars. He wanted a piece that was about the violation of the world itself, and chose broken mirrors precisely so that the sky overhead would be reflected forever as fractured: in his words, 'the sky after Auschwitz is never again intact.'",
+      "facts": [
+        {
+          "claim": "Wolkers designed the monument in 1977; the present, enlarged version was reinstalled in Wertheimpark in 1993.",
+          "verified": true,
+          "amplification": "1977: a smaller version unveiled at the Oosterbegraafplaats (Eastern Cemetery) in Amsterdam-Oost, where the urn of Auschwitz ashes had been buried in 1952. 1993: the monument was enlarged (now six panels) and the urn moved with it to the Wertheimpark, where the annual Auschwitz commemoration has taken place ever since. The night before the 1993 re-unveiling, the panels were vandalised by an addicted glazier with a pickaxe — a strange echo of the work's premise.",
+          "sources": [
+            {
+              "title": "Wikipedia (NL): Auschwitzmonument (Amsterdam)",
+              "url": "https://nl.wikipedia.org/wiki/Auschwitzmonument_(Amsterdam)"
+            },
+            {
+              "title": "Nederlands Auschwitz Comité — Spiegelmonument",
+              "url": "https://www.auschwitz.nl/nederlands-auschwitz-comite/onze-activiteiten/spiegelmonument/"
+            },
+            {
+              "title": "Tracesofwar — Mirror Memorial for Auschwitz",
+              "url": "https://www.tracesofwar.com/sights/217/Mirror-Memorial-for-Auschwitz.htm"
+            }
+          ]
+        },
+        {
+          "claim": "An urn with ashes from Auschwitz is buried under the mirrors.",
+          "verified": true,
+          "amplification": "The urn was assembled from ashes collected at Auschwitz-Birkenau by a Dutch delegation in January 1952; it sat at a funeral home on P.C. Hooftstraat in Amsterdam, then moved to the Oosterbegraafplaats, and finally — together with the (enlarged) monument — to the Wertheimpark in 1993.",
+          "sources": [
+            {
+              "title": "Nederlands Auschwitz Comité",
+              "url": "https://www.auschwitz.nl/nederlands-auschwitz-comite/onze-activiteiten/spiegelmonument/"
+            }
+          ]
+        },
+        {
+          "claim": "Wolkers's intention: the sky 'is never again intact' after Auschwitz.",
+          "verified": true,
+          "amplification": "Wolkers's exact phrasing was that he could not bear that the sky should look untouched above the place where so many had died.",
+          "sources": [
+            {
+              "title": "Wikipedia (NL): Auschwitzmonument (Amsterdam)",
+              "url": "https://nl.wikipedia.org/wiki/Auschwitzmonument_(Amsterdam)"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/auschwitz-monument.jpg",
+          "credit": "Via Wikipedia (nl.wikipedia.org, file in Wikimedia Commons)",
+          "source_url": "https://nl.wikipedia.org/wiki/Auschwitzmonument",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Auschwitz_monument_amsterdam.JPG/3840px-Auschwitz_monument_amsterdam.JPG"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/auschwitz-monument-00.jpg",
+            "credit": "FaceMePLS from The Hague, The Netherlands (CC BY 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:%27Auschwitz_monument%27_Wertheimpark_Amsterdam_(21615229722).jpg",
+            "alt": "Jan Wolkers’s “Nooit meer Auschwitz” (Never Again Auschwitz) memorial in Wertheimpark, Amsterdam.",
+            "note": "'Nooit meer Auschwitz' — Never Again Auschwitz. The memorial, designed in 1977 by writer and artist Jan Wolkers and unveiled on 22 September 1977, commemorates the roughly 102,000 Dutch Jews murdered in the Holocaust, of whom approximately 60,000 died in Auschwitz.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%27Auschwitz_monument%27_Wertheimpark_Amsterdam_%2821615229722%29.jpg/1280px-%27Auschwitz_monument%27_Wertheimpark_Amsterdam_%2821615229722%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/auschwitz-monument-01.jpg",
+            "credit": "FaceMePLS from The Hague, The Netherlands (CC BY 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:%27Auschwitz_monument%27_Wertheimpark_Amsterdam_(21439711389).jpg",
+            "alt": "Cracked-mirror panels of the Auschwitz monument reflecting the trees of Wertheimpark.",
+            "note": "The cracked-mirror panels — Wolkers's central image — reflect the sky and trees of the park back at the visitor in fragments. The artist's stated intention: 'after Auschwitz, even the heavens cannot be looked at without seeing them broken'.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%27Auschwitz_monument%27_Wertheimpark_Amsterdam_%2821439711389%29.jpg/1280px-%27Auschwitz_monument%27_Wertheimpark_Amsterdam_%2821439711389%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/auschwitz-monument-02.jpg",
+            "credit": "Arthena (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_monument_amsterdam.JPG",
+            "alt": "The Auschwitz monument in Wertheimpark, photographed in 2007.",
+            "note": "The monument's basalt columns and mirror panels in their park setting. Beneath the central panel is buried an urn containing soil from Auschwitz, brought back by the founders of the Nederlands Auschwitz Comité in 1956.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Auschwitz_monument_amsterdam.JPG/1280px-Auschwitz_monument_amsterdam.JPG"
+          },
+          {
+            "url": "assets/img/gallery/auschwitz-monument-03.jpg",
+            "credit": "Gus Maussen (CC BY-SA 3.0 nl) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_Monument,_Jan_Wolkers.JPG",
+            "alt": "View of the Auschwitz monument by Jan Wolkers in Wertheimpark.",
+            "note": "The annual Auschwitz commemoration takes place at this site on the last Sunday of January, near the anniversary of the camp's liberation on 27 January 1945. The Nederlands Auschwitz Comité was founded in 1956 by Dutch survivors and remains the main body for Holocaust remembrance in the Netherlands.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Auschwitz_Monument%2C_Jan_Wolkers.JPG"
+          },
+          {
+            "url": "assets/img/gallery/auschwitz-monument-04.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2022_Wertheimpark,_Asd-Nooit_meer_Auschwitz_(1).jpg",
+            "alt": "The Auschwitz monument in Wertheimpark, 2022.",
+            "note": "The monument photographed in 2022. The phrase 'Nooit meer Auschwitz' was first used by Dutch survivor and Auschwitz Comité co-founder Eddy de Wind in his 1946 memoir 'Eindstation Auschwitz' — written while he was still inside the just-liberated camp.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2022_Wertheimpark%2C_Asd-Nooit_meer_Auschwitz_%281%29.jpg/1280px-2022_Wertheimpark%2C_Asd-Nooit_meer_Auschwitz_%281%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/auschwitz-monument-05.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2022_Wertheimpark,_Asd-Gewone_vleugelnoot_(1).jpg",
+            "alt": "The Caucasian wingnut tree (Pterocarya fraxinifolia) in Wertheimpark, planted around 1900.",
+            "note": "The enormous Caucasian wingnut (Pterocarya fraxinifolia) standing beside the Auschwitz monument has grown here since around 1900, well before the events it stands witness to. The tree is one of the largest of its species in the Netherlands.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2022_Wertheimpark%2C_Asd-Gewone_vleugelnoot_%281%29.jpg/1280px-2022_Wertheimpark%2C_Asd-Gewone_vleugelnoot_%281%29.jpg"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Wikipedia (NL): Auschwitzmonument (Amsterdam)",
+          "url": "https://nl.wikipedia.org/wiki/Auschwitzmonument_(Amsterdam)"
+        },
+        {
+          "title": "Nederlands Auschwitz Comité — Spiegelmonument",
+          "url": "https://www.auschwitz.nl/nederlands-auschwitz-comite/onze-activiteiten/spiegelmonument/"
+        },
+        {
+          "title": "Tracesofwar — Mirror Memorial",
+          "url": "https://www.tracesofwar.com/sights/217/Mirror-Memorial-for-Auschwitz.htm"
+        },
+        {
+          "title": "Iamsterdam — Auschwitz Monument",
+          "url": "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/bezienswaardigheden/auschwitz-monument"
+        }
+      ]
+    },
+    {
+      "id": "namenmonument",
+      "number": 16,
+      "title": "National Holocaust Names Monument",
+      "title_nl": "Nationaal Holocaust Namenmonument",
+      "subtitle": "Daniel Libeskind, unveiled 19 September 2021",
+      "address": "Weesperstraat (between Nieuwe Herengracht and Nieuwe Keizersgracht), 1018 DT Amsterdam",
+      "coords": [
+        52.36573,
+        4.90489
+      ],
+      "summary": "A 1,550 m² brick-walled labyrinth in which every brick — there are 102,000 of them — bears the name, date of birth and age at death of one Dutch victim of the Holocaust or the Porajmos (the Roma and Sinti genocide). The walls, 2.43 m high, are arranged in the four shapes of the Hebrew letters of the word לזכר (lizkor — 'In Memoriam'): Lamedh, Zayin, Kaph, Resh. Above each of the four sections rises a tall mirror-polished stainless-steel volume up to 6.6 m high, so that visitors below can read the letter in reflection in the sky. Designed by Daniel Libeskind (born Łódź, Poland, 1946 — also architect of the Jewish Museum Berlin and the Ground Zero master plan); built by Rijnboutt with bricks from Rodruza. A separate '1,000 Names Wall' at the south entrance was deliberately left blank to receive names later identified. King Willem-Alexander unveiled the monument on 19 September 2021. The design won the 2022 Amsterdam Architecture Prize.",
+      "facts": [
+        {
+          "claim": "Designed by Daniel Libeskind. Inaugurated by King Willem-Alexander on 19 September 2021.",
+          "verified": true,
+          "amplification": "Libeskind was born in Łódź in 1946 to Polish Jewish parents, became a US citizen, and is one of the world's foremost architects of memorial and museum spaces.",
+          "sources": [
+            {
+              "title": "Wikipedia: National Holocaust Names Memorial (Amsterdam)",
+              "url": "https://en.wikipedia.org/wiki/National_Holocaust_Names_Memorial_(Amsterdam)"
+            },
+            {
+              "title": "Studio Libeskind — Names Monument",
+              "url": "https://libeskind.com/work/names-monument/"
+            }
+          ]
+        },
+        {
+          "claim": "The four sections form the Hebrew letters of the word לזכר (lizkor / lizkar) — 'In Memoriam'.",
+          "verified": true,
+          "amplification": "Right-to-left, the four Hebrew letters are Lamedh, Zayin, Kaph, Resh — together transliterating to לזכר, 'in memory of'.",
+          "sources": [
+            {
+              "title": "Wikipedia: National Holocaust Names Memorial",
+              "url": "https://en.wikipedia.org/wiki/National_Holocaust_Names_Memorial_(Amsterdam)"
+            }
+          ]
+        },
+        {
+          "claim": "Names commemorated: 102,000 Jews + 220 Roma and Sinti.",
+          "verified": true,
+          "amplification": "Approximately 102,000 Dutch Jewish victims plus 220 Roma and Sinti victims are inscribed, totalling roughly 102,220 names; the Roma and Sinti names are commemorated alongside the Jewish ones but counted separately.",
+          "sources": [
+            {
+              "title": "Wikipedia: National Holocaust Names Memorial",
+              "url": "https://en.wikipedia.org/wiki/National_Holocaust_Names_Memorial_(Amsterdam)"
+            },
+            {
+              "title": "Holocaust Namenmonument (official)",
+              "url": "https://www.holocaustnamenmonument.nl/en/home/"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/namenmonument.jpg",
+          "credit": "Wikipedia (nl) — Holocaust Namenmonument Nederland (CC license — see source)",
+          "source_url": "https://nl.wikipedia.org/wiki/Holocaust%20Namenmonument%20Nederland",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Holocaust_Namenmonument_%28Amsterdam%29.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/namenmonument-00.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2023_Holocaust_Namenmonument-Sluijter,Mina.jpg",
+            "alt": "A single name-brick at the Holocaust Names Monument: Mina Sluijter.",
+            "note": "A single brick at the Namenmonument: Mina Sluijter. The monument inscribes the name, date of birth, and age at death of every named victim of the Holocaust in the Netherlands — 102,000 Jews, 220 Sinti and Roma — each on their own brick. It was designed by Daniel Libeskind and opened by King Willem-Alexander on 19 September 2021.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2023_Holocaust_Namenmonument-Sluijter%2CMina.jpg/1280px-2023_Holocaust_Namenmonument-Sluijter%2CMina.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-01.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Hakker,_Calman.jpg",
+            "alt": "Family bricks of the Hakker family at the Holocaust Names Monument.",
+            "note": "The bricks for the Calman Hakker family. The monument lays out the names along reflective stainless steel walls that spell, when seen from above, the four Hebrew letters of the word 'Lezecher' — 'in memory'. Visitors can locate any name through the monument's online search.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2024_Holocaust_Namenmonument-Hakker%2C_Calman.jpg/1280px-2024_Holocaust_Namenmonument-Hakker%2C_Calman.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-02.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Hakker,_Lea.jpg",
+            "alt": "Name-brick of Lea Hakker at the Holocaust Names Monument, Weesperstraat.",
+            "note": "Lea Hakker. About 75% of the Jewish population of the Netherlands was murdered during the German occupation — by far the highest proportion in Western Europe, despite a strong Dutch resistance movement. The Names Monument is the first national-scale Dutch attempt to name them all individually.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2024_Holocaust_Namenmonument-Hakker%2C_Lea.jpg/1280px-2024_Holocaust_Namenmonument-Hakker%2C_Lea.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-03.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Hanf,_Bob.jpg",
+            "alt": "Name-brick of Robert (Bob) Hanff at the Holocaust Names Monument.",
+            "note": "Robert 'Bob' Hanff, a Dutch Jewish jazz musician, painter and composer who died in Auschwitz in 1944. The monument's per-brick form was chosen specifically because each name had to be individually visible: the Dutch Jewish community had been opposed to any abstract or sculptural memorial that would erase individual identity.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2024_Holocaust_Namenmonument-Hanf%2C_Bob.jpg/1280px-2024_Holocaust_Namenmonument-Hanf%2C_Bob.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-04.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Hanf,_Joseph.jpg",
+            "alt": "Name-brick of Joseph Hanf at the Holocaust Names Monument.",
+            "note": "Joseph Hanf, Bob Hanff's father. Many of the bricks at the monument carry whole families — parents, grandparents, children — set side by side, as their owners would have stood in life.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2024_Holocaust_Namenmonument-Hanf%2C_Joseph.jpg/1280px-2024_Holocaust_Namenmonument-Hanf%2C_Joseph.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-05.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Hanf,_Rebecca.jpg",
+            "alt": "Name-brick of Rebecca Hanf-Löwenstein at the Holocaust Names Monument.",
+            "note": "Rebecca Hanf-Löwenstein, Joseph's wife. The monument took 16 years from concept to opening: it was first proposed in 2005 by Auschwitz survivor Jacques Grishaver of the Nederlands Auschwitz Comité, and faced multiple objections about its scale and location before final approval.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2024_Holocaust_Namenmonument-Hanf%2C_Rebecca.jpg/1280px-2024_Holocaust_Namenmonument-Hanf%2C_Rebecca.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-06.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Otten-Wolff,_Annie.jpg",
+            "alt": "Name-brick of Annie Otten-Wolff at the Holocaust Names Monument.",
+            "note": "Annie Otten-Wolff. Each brick is the same size — about 8 by 16 cm — regardless of who is named on it: a Jewish baby and a respected community elder occupy exactly the same space, and are read in the same way by visitors.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2024_Holocaust_Namenmonument-Otten-Wolff%2C_Annie.jpg/1280px-2024_Holocaust_Namenmonument-Otten-Wolff%2C_Annie.jpg"
+          },
+          {
+            "url": "assets/img/gallery/namenmonument-07.jpg",
+            "credit": "Ceescamel (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:2024_Holocaust_Namenmonument-Keezer,_Elsa.jpg",
+            "alt": "Name-brick of Elsa Keezer at the Holocaust Names Monument on Weesperstraat.",
+            "note": "Elsa Keezer. Visitors regularly leave small stones on the bricks — the Jewish tradition of marking a grave with a stone, here adapted to the bricks of those who have no individual grave. The monument's site, on Weesperstraat, was once the heart of Jewish Amsterdam.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2024_Holocaust_Namenmonument-Keezer%2C_Elsa.jpg/1280px-2024_Holocaust_Namenmonument-Keezer%2C_Elsa.jpg"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Short film: a tour of the Dutch Holocaust Memorial of Names by Studio Libeskind",
+            "youtube_id": "gwnCw2eHn7w",
+            "source_url": "https://www.youtube.com/watch?v=gwnCw2eHn7w"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "Holocaust Namenmonument Nederland (official)",
+          "url": "https://www.holocaustnamenmonument.nl/en/home/"
+        },
+        {
+          "title": "Wikipedia: National Holocaust Names Memorial (Amsterdam)",
+          "url": "https://en.wikipedia.org/wiki/National_Holocaust_Names_Memorial_(Amsterdam)"
+        },
+        {
+          "title": "Studio Libeskind — Names Monument",
+          "url": "https://libeskind.com/work/names-monument/"
+        },
+        {
+          "title": "Nationaal Comité 4 en 5 mei",
+          "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/4417/amsterdam-nationaal-holocaust-namenmonument"
+        }
+      ]
+    },
+    {
+      "id": "suskind-bridge",
+      "number": 17,
+      "title": "Walter Süskind Bridge",
+      "title_nl": "Walter Süskindbrug",
+      "subtitle": "Drawbridge, built 1969-1972; renamed in 1972",
+      "address": "Nieuwe Herengracht / Amstel (linking Plantage to Weesperstraat), 1018 DG Amsterdam",
+      "coords": [
+        52.36694,
+        4.90694
+      ],
+      "summary": "A 5.5-metre-wide steel drawbridge spanning the Nieuwe Herengracht where it meets the Amstel. The bridge replaced an earlier iron drawbridge between 1969 and 1972 and was named in honour of Walter Süskind in 1972 — close to the route along which children from the crèche were carried out of the Plantage neighbourhood to safety. Today its bascule mechanism still opens for boat traffic; it is one of the better-known of Amsterdam's hundreds of working drawbridges.",
+      "facts": [
+        {
+          "claim": "Built 1969-1972; named for Walter Süskind.",
+          "verified": true,
+          "amplification": "It crosses the Nieuwe Herengracht where it joins the Amstel river. The bridge is a working drawbridge; in 2017 its wooden deck was replaced with Accoya acetylated wood.",
+          "sources": [
+            {
+              "title": "Structurae — Walter Süskind Bridge",
+              "url": "https://structurae.net/en/structures/walter-suskind-bridge"
+            },
+            {
+              "title": "Tropter — Walter Süskind Bridge",
+              "url": "https://tropter.com/en/netherlands-europe/amsterdam/walter-suskind-bridge"
+            }
+          ]
+        }
+      ],
+      "corrections": [],
+      "media": {
+        "hero_image": {
+          "url": "assets/img/suskind-bridge.jpg",
+          "credit": "Wikimedia Commons — Amsterdam - boating on the canal (3411113235).jpg (CC license — see source)",
+          "source_url": "https://commons.wikimedia.org/wiki/File%3AAmsterdam%20-%20boating%20on%20the%20canal%20%283411113235%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amsterdam_-_boating_on_the_canal_%283411113235%29.jpg/1920px-Amsterdam_-_boating_on_the_canal_%283411113235%29.jpg"
+        },
+        "gallery": [
+          {
+            "url": "assets/img/gallery/suskind-bridge-00.jpg",
+            "credit": "Rob Croes / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N,_Bestanddeelnr_925-8433.jpg",
+            "alt": "Unveiling of the Walter Süskind memorial plaque on bridge 237, 30 August 1972.",
+            "note": "The unveiling of the memorial plaque on what was then bridge 237, on 30 August 1972 — the same year the wooden lift bridge over the Nieuwe Herengracht was renamed for him. Walter Süskind (1906–1945) was a German-Jewish refugee who became a key figure in saving roughly 600 children from the Hollandsche Schouwburg crèche.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N%2C_Bestanddeelnr_925-8433.jpg/1280px-Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N%2C_Bestanddeelnr_925-8433.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-bridge-01.jpg",
+            "credit": "Rob Croes / Anefo (CC0 1.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N,_Bestanddeelnr_925-8434.jpg",
+            "alt": "Wreath-laying at the unveiling of the Walter Süskind memorial plaque, August 1972.",
+            "note": "Wreath-laying at the same 1972 unveiling. Süskind himself did not survive the war. After the crèche operation was discovered, he was deported with his wife Johanna and daughter Yvonne to Westerbork, then to Theresienstadt, and finally to Auschwitz; he died on a death march in early 1945, aged 39.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N%2C_Bestanddeelnr_925-8434.jpg/1280px-Plaquette_onthuld_ter_nagedachtenis_van_Walter_Suskind_nieuwe_houten_brug_over_N%2C_Bestanddeelnr_925-8434.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-bridge-02.jpg",
+            "credit": "Ceescamel (CC BY-SA 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Brug_237,_2018,_plaquette.jpg",
+            "alt": "The Walter Süskind memorial plaque on bridge 237 today.",
+            "note": "The plaque on the bridge today. The bridge connects the Nieuwe Keizersgracht to the Nieuwe Herengracht — directly across the Amstel from the former Jewish quarter. The location is symbolic: this is the route many of the smuggled children would have been taken along to safe houses outside the city.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Brug_237%2C_2018%2C_plaquette.jpg/1280px-Brug_237%2C_2018%2C_plaquette.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-bridge-03.jpg",
+            "credit": "Michielverbeek (CC BY 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam,_de_Walter_S%C3%BCskindbrug_IMG_1082_2026-04-06_14.17.jpg",
+            "alt": "The Walter Süskindbrug as a movable lift bridge across the Nieuwe Herengracht.",
+            "note": "The Walter Süskindbrug today, a movable lift bridge in its raised position. The original 1972 wooden bridge was replaced by the current steel structure in 2021. The yellow Star of David carved into the railings — a deliberate choice in the rebuild — quotes the badge that the German occupier forced Dutch Jews to wear from May 1942.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amsterdam%2C_de_Walter_S%C3%BCskindbrug_IMG_1082_2026-04-06_14.17.jpg/1280px-Amsterdam%2C_de_Walter_S%C3%BCskindbrug_IMG_1082_2026-04-06_14.17.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-bridge-04.jpg",
+            "credit": "Dguendel (CC BY 4.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam,_die_Walter_S%C3%BCskindbrug.jpg",
+            "alt": "The Walter Süskindbrug across the Nieuwe Herengracht.",
+            "note": "The bridge in everyday use. Süskind's network at the crèche operated for nearly two years (October 1942 to September 1943) and saved an estimated 600 children — the largest single act of organised Jewish-and-Dutch rescue during the German occupation. He was posthumously honoured as Righteous Among the Nations in 2018.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Amsterdam%2C_die_Walter_S%C3%BCskindbrug.jpg/1280px-Amsterdam%2C_die_Walter_S%C3%BCskindbrug.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-bridge-05.jpg",
+            "credit": "Fred Romero from Paris, France (CC BY 2.0) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Walter_S%C3%BCskindbrug_(30299252015).jpg",
+            "alt": "The Walter Süskind lift bridge, Amsterdam.",
+            "note": "The Walter Süskindbrug. The bridge stands on the boundary between the old Jodenbuurt and the Plantage neighbourhood: most of the rescue work happened within a 200-metre radius of here, including the Hollandsche Schouwburg, the crèche, and the Hervormde Kweekschool teacher-training college.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Amsterdam_-_Walter_S%C3%BCskindbrug_%2830299252015%29.jpg/1280px-Amsterdam_-_Walter_S%C3%BCskindbrug_%2830299252015%29.jpg"
+          },
+          {
+            "url": "assets/img/gallery/suskind-bridge-06.jpg",
+            "credit": "Alf van Beem (Public domain) via Wikimedia Commons",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Brug_237,_Walter_S%C3%BCskindbrug_by_night_foto_1.JPG",
+            "alt": "The Walter Süskindbrug lit up at night.",
+            "note": "The bridge at night. Süskind exploited his pre-war friendship with the German camp commander Ferdinand aus der Fünten and his fluency in German to negotiate a workable deception: he would 'forget' to register children, or quietly remove cards from the deportation list, while the Nazis believed he was a useful collaborator.",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brug_237%2C_Walter_S%C3%BCskindbrug_by_night_foto_1.JPG/1280px-Brug_237%2C_Walter_S%C3%BCskindbrug_by_night_foto_1.JPG"
+          }
+        ],
+        "videos": []
+      },
+      "resources": [
+        {
+          "title": "Structurae — Walter Süskind Bridge",
+          "url": "https://structurae.net/en/structures/walter-suskind-bridge"
+        },
+        {
+          "title": "Tropter — Walter Süskind Bridge",
+          "url": "https://tropter.com/en/netherlands-europe/amsterdam/walter-suskind-bridge"
+        }
+      ]
+    }
+  ],
+  "context_panels": {
+    "occupation_overview": {
+      "id": "occupation-overview",
+      "title": "Five years of occupation — context",
+      "summary": "Germany invaded the Netherlands on 10 May 1940. After five days of fighting and the destruction of central Rotterdam by aerial bombing on 14 May, the Dutch government surrendered. Initially everyday life changed little for most non-Jewish Dutch people, but a steady cascade of anti-Jewish measures began almost immediately and accelerated through 1941-42.",
+      "facts": [
+        {
+          "claim": "About 140,000 Jews lived in the Netherlands at the start of the war; about 79,000 in Amsterdam.",
+          "verified": true,
+          "amplification": "Source doc gives '115,000 Jews in The Netherlands' and '85,000 lived in Amsterdam' — the standard figures from Anne Frank House, USHMM and the Dutch Institute for War, Holocaust and Genocide Studies (NIOD) are ~140,000 in NL and ~79,000 in Amsterdam in 1941. The 115,000 figure may exclude the ~25,000 German and Austrian refugees who arrived in the 1930s — but if so it should be ~110,000-115,000 'native' Dutch Jews; the Frank family is one of the refugee families and they are usually counted within the 140,000. Roughly 75% — 102,000 — were murdered, the highest proportion of any country in Western Europe.",
+          "sources": [
+            {
+              "title": "Anne Frank House — Netherlands: greatest number of Jewish victims in Western Europe",
+              "url": "https://www.annefrank.org/en/anne-frank/go-in-depth/netherlands-greatest-number-jewish-victims-western-europe/"
+            },
+            {
+              "title": "USHMM — Amsterdam",
+              "url": "https://encyclopedia.ushmm.org/content/en/article/amsterdam"
+            },
+            {
+              "title": "Wikipedia: The Holocaust in the Netherlands",
+              "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_the_Netherlands"
+            }
+          ]
+        },
+        {
+          "claim": "About 24,000-25,000 German and Austrian Jews fled to the Netherlands during the 1930s.",
+          "verified": true,
+          "amplification": "Source doc says ~25,000 — accurate. The Frank family arrived in 1933-34 from Frankfurt.",
+          "sources": [
+            {
+              "title": "USHMM — Amsterdam",
+              "url": "https://encyclopedia.ushmm.org/content/en/article/amsterdam"
+            }
+          ]
+        }
+      ],
+      "corrections": []
+    }
+  }
+}
