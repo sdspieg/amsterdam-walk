@@ -933,9 +933,9 @@
       "media": {
         "hero_image": {
           "url": "assets/img/dokwerker.jpg",
-          "credit": "Wikipedia (nl) — De Dokwerker (CC license — see source)",
-          "source_url": "https://nl.wikipedia.org/wiki/De%20Dokwerker",
-          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De_Dokwerker.jpg"
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/De_Dokwerker_-_Mari_Andriessen.jpg/1920px-De_Dokwerker_-_Mari_Andriessen.jpg",
+          "credit": "Mari Andriessen, De Dokwerker (1952). Wikimedia Commons (CC license).",
+          "source_url": "https://commons.wikimedia.org/wiki/File:De_Dokwerker_-_Mari_Andriessen.jpg"
         },
         "gallery": [
           {
@@ -1499,9 +1499,9 @@
       "media": {
         "hero_image": {
           "url": "assets/img/suskind.jpg",
-          "credit": "Wikimedia Commons — Stolperstein für Walter Süskind (Bergen op Zoom).jpg (CC license — see source)",
-          "source_url": "https://commons.wikimedia.org/wiki/File%3AStolperstein%20f%C3%BCr%20Walter%20S%C3%BCskind%20%28Bergen%20op%20Zoom%29.jpg",
-          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Stolperstein_f%C3%BCr_Walter_S%C3%BCskind_%28Bergen_op_Zoom%29.jpg"
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Kinderen_uit_de_creche_aan_de_Plantage_Middenlaan_in_Amsterdam%2C_circa_1942.jpg",
+          "credit": "Children at the crèche on Plantage Middenlaan, Amsterdam, c. 1942 — children Walter Süskind smuggled to safety. Wikimedia Commons (Public Domain).",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kinderen_uit_de_creche_aan_de_Plantage_Middenlaan_in_Amsterdam,_circa_1942.jpg"
         },
         "gallery": [
           {
@@ -2328,9 +2328,9 @@
       "media": {
         "hero_image": {
           "url": "assets/img/suskind-bridge.jpg",
-          "credit": "Wikimedia Commons — Amsterdam - boating on the canal (3411113235).jpg (CC license — see source)",
-          "source_url": "https://commons.wikimedia.org/wiki/File%3AAmsterdam%20-%20boating%20on%20the%20canal%20%283411113235%29.jpg",
-          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amsterdam_-_boating_on_the_canal_%283411113235%29.jpg/1920px-Amsterdam_-_boating_on_the_canal_%283411113235%29.jpg"
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Amsterdam_-_Walter_S%C3%BCskindbrug_%2830300452285%29.jpg/1920px-Amsterdam_-_Walter_S%C3%BCskindbrug_%2830300452285%29.jpg",
+          "credit": "Walter Süskindbrug over the Nieuwe Herengracht. Wikimedia Commons (CC BY).",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Walter_Süskindbrug_(30300452285).jpg"
         },
         "gallery": [
           {
