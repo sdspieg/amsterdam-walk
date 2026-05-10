@@ -3174,3 +3174,30 @@ body.map-walk-active .topnav { transform: translateY(-110%); }
   color: var(--gold);
 }
 
+
+/* "Even Here…" — render the title on one line */
+.hero__title.hero__title--inline {
+  font-size: clamp(56px, 12vw, 180px);
+  display: block;
+  white-space: nowrap;
+  letter-spacing: -0.02em;
+}
+.hero__title.hero__title--inline em {
+  font-style: italic;
+  font-weight: 400;
+  color: var(--text);
+}
+.hero__title.hero__title--inline .hero__title-em {
+  font-weight: 500;
+  color: var(--gold);
+}
+.hero__title.hero__title--inline .hero__title-ellipsis {
+  color: var(--gold-dark);
+  font-weight: 300;
+  margin-left: 0.05em;
+}
+@media (max-width: 720px) {
+  .hero__title.hero__title--inline {
+    white-space: normal;  /* allow wrap on tiny screens if it would clip */
+  }
+}
