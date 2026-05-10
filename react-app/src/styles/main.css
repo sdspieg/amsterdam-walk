@@ -3201,3 +3201,45 @@ body.map-walk-active .topnav { transform: translateY(-110%); }
     white-space: normal;  /* allow wrap on tiny screens if it would clip */
   }
 }
+
+/* Footnote inside the title modal — explanatory expand */
+.title-modal__footnote {
+  margin: 28px 0 0 0;
+  padding: 18px 22px;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  background: rgba(212, 168, 87, 0.04);
+}
+.title-modal__footnote-summary {
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold);
+  list-style: none;
+  user-select: none;
+}
+.title-modal__footnote-summary::-webkit-details-marker { display: none; }
+.title-modal__footnote-summary::before {
+  content: "+ ";
+  display: inline-block;
+  margin-right: 4px;
+  transition: transform var(--dur-fast) var(--ease-archival);
+}
+.title-modal__footnote[open] .title-modal__footnote-summary::before { content: "− "; }
+
+.title-modal__footnote-body {
+  margin-top: 14px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
+.title-modal__footnote-body p { margin: 0 0 12px 0; }
+.title-modal__footnote-body p:last-child { margin-bottom: 0; }
+.title-modal__footnote-body em {
+  font-style: italic;
+  color: var(--text);
+}

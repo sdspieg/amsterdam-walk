@@ -3,6 +3,14 @@ import { Link } from 'react-router-dom';
 import { stops } from '../data';
 import title from '../data/title.json';
 
+/* Inline markdown-lite: turn *italic* into <em>, escape other HTML. */
+function renderInline(text) {
+  const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  let out = esc(text);
+  out = out.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  return out;
+}
+
 export default function Hero() {
   const [titleModalOpen, setTitleModalOpen] = useState(false);
 
@@ -80,6 +88,16 @@ export default function Hero() {
             ))}
             {title.modal.closing && (
               <p className="title-modal__closing">{title.modal.closing}</p>
+            )}
+            {title.modal.footnote && (
+              <details className="title-modal__footnote">
+                <summary className="title-modal__footnote-summary">{title.modal.footnote.heading}</summary>
+                <div className="title-modal__footnote-body">
+                  {title.modal.footnote.body.split('\n\n').map((para, j) => (
+                    <p key={j} dangerouslySetInnerHTML={{ __html: renderInline(para) }} />
+                  ))}
+                </div>
+              </details>
             )}
           </article>
         </div>
