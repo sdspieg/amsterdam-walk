@@ -24,7 +24,6 @@ export default function Hero() {
       </div>
 
       <div className="hero__inner">
-        <p className="overline overline--gold">A walking guide</p>
         <h1 className="hero__title hero__title--inline">
           <em>Even</em> <span className="hero__title-em">Here</span><span className="hero__title-ellipsis" aria-hidden="true">…</span>
         </h1>
