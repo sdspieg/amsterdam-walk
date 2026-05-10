@@ -1,11 +1,23 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import intro from '../data/intro.json';
 
 export default function IntroPage() {
   const langs = Object.keys(intro.transcripts || {});
   const [lang, setLang] = useState(langs[0] || 'en');
+  const [rationaleOpen, setRationaleOpen] = useState(false);
   const transcript = intro.transcripts?.[lang];
+
+  useEffect(() => {
+    function onKey(ev) {
+      if (ev.key === 'Escape' && rationaleOpen) { setRationaleOpen(false); ev.preventDefault(); }
+    }
+    if (rationaleOpen) {
+      document.body.style.overflow = 'hidden';
+      window.addEventListener('keydown', onKey);
+    }
+    return () => { document.body.style.overflow = ''; window.removeEventListener('keydown', onKey); };
+  }, [rationaleOpen]);
 
   return (
     <article className="intro">
@@ -38,18 +50,31 @@ export default function IntroPage() {
           <header className="intro__transcript-header">
             <p className="overline">Transcript</p>
             {langs.length > 1 && (
-              <div className="intro__lang-tabs" role="tablist" aria-label="Transcript language">
-                {langs.map(l => (
-                  <button
-                    key={l}
-                    role="tab"
-                    aria-selected={l === lang}
-                    className={'intro__lang-tab' + (l === lang ? ' is-active' : '')}
-                    onClick={() => setLang(l)}
-                  >
-                    {intro.transcripts[l]?.language_label || l.toUpperCase()}
-                  </button>
-                ))}
+              <div className="intro__lang-row">
+                <div className="intro__lang-tabs" role="tablist" aria-label="Transcript language">
+                  {langs.map(l => (
+                    <button
+                      key={l}
+                      role="tab"
+                      aria-selected={l === lang}
+                      className={'intro__lang-tab' + (l === lang ? ' is-active' : '')}
+                      onClick={() => setLang(l)}
+                      title={intro.transcripts[l]?.language_full || intro.transcripts[l]?.language_label}
+                    >
+                      {intro.transcripts[l]?.language_label || l.toUpperCase()}
+                    </button>
+                  ))}
+                </div>
+                <button
+                  type="button"
+                  className="intro__lang-info-btn"
+                  onClick={() => setRationaleOpen(true)}
+                  aria-label="Why these languages?"
+                  title="Why these languages?"
+                >
+                  <span aria-hidden="true">ⓘ</span>
+                  <span className="intro__lang-info-label">Why these languages?</span>
+                </button>
               </div>
             )}
           </header>
@@ -87,6 +112,40 @@ export default function IntroPage() {
             </p>
           )}
         </section>
+      )}
+
+      {rationaleOpen && (
+        <div className="lang-modal" role="dialog" aria-modal="true" aria-labelledby="lang-modal-title" onClick={(ev) => { if (ev.target.classList.contains('lang-modal')) setRationaleOpen(false); }}>
+          <div className="lang-modal__panel">
+            <header className="lang-modal__header">
+              <p className="overline">Languages on this page</p>
+              <h2 id="lang-modal-title">Why these languages?</h2>
+              <button type="button" className="lang-modal__close" onClick={() => setRationaleOpen(false)} aria-label="Close">×</button>
+            </header>
+            <p className="lang-modal__intro">
+              The walk visits monuments to people who were deported from Amsterdam between 1942 and 1944.
+              Most never returned. Each transcript is offered in a language those people spoke at home,
+              read in synagogue, taught their children, or were spoken to in by guards at the camps.
+              Honoring those languages — especially the ones rarely included on memorial sites — is part
+              of the act of remembrance.
+            </p>
+            <ul className="lang-modal__list">
+              {langs.map(l => {
+                const t = intro.transcripts[l];
+                if (!t?.rationale) return null;
+                return (
+                  <li key={l} className="lang-modal__item">
+                    <div className="lang-modal__item-head">
+                      <span className="lang-modal__item-label">{t.language_label}</span>
+                      {t.language_full && <span className="lang-modal__item-full">{t.language_full}</span>}
+                    </div>
+                    <p className="lang-modal__item-rationale">{t.rationale}</p>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        </div>
       )}
 
       <nav className="intro__cta">

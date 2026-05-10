@@ -3041,3 +3041,22 @@ body.map-walk-active .topnav { transform: translateY(-110%); }
   color: var(--text);
   margin: 0;
 }
+
+/* Explicit left-alignment for every text node in the language-rationale modal,
+   independent of any inherited dir/text-align. */
+.lang-modal__panel,
+.lang-modal__header,
+.lang-modal__header h2,
+.lang-modal__intro,
+.lang-modal__list,
+.lang-modal__item,
+.lang-modal__item-head,
+.lang-modal__item-label,
+.lang-modal__item-full,
+.lang-modal__item-rationale {
+  text-align: left !important;
+  direction: ltr !important;
+}
+.lang-modal__item-head {
+  justify-content: flex-start !important;
+}
