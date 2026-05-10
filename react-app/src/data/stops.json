@@ -2408,12 +2408,12 @@
     "occupation_overview": {
       "id": "occupation-overview",
       "title": "Five years of occupation — context",
-      "summary": "Germany invaded the Netherlands on 10 May 1940. After five days of fighting and the destruction of central Rotterdam by aerial bombing on 14 May, the Dutch government surrendered. Initially everyday life changed little for most non-Jewish Dutch people, but a steady cascade of anti-Jewish measures began almost immediately and accelerated through 1941-42.",
+      "summary": "Germany invaded the Netherlands on 10 May 1940. After five days of fighting and the destruction of central Rotterdam by aerial bombing on 14 May, the Dutch government surrendered. The five-year occupation that followed targeted, persecuted, deported, and murdered many communities at once — Jews most systematically, but also Sinti and Roma, gay men, communists and other political opponents, Jehovah's Witnesses, the disabled in Dutch psychiatric institutions, forced labourers sent to Germany, and resistance fighters shot in the dunes near Overveen. Across the world, Dutch civilians and the Indonesian people they had colonised were dying in Japanese internment camps. This walk visits the places that bear witness to all of them.",
       "facts": [
         {
-          "claim": "About 140,000 Jews lived in the Netherlands at the start of the war; about 79,000 in Amsterdam.",
+          "claim": "About 140,000 Jews lived in the Netherlands at the start of the war; about 79,000 in Amsterdam. Roughly 75% — about 102,000 — were murdered, the highest proportion of any country in Western Europe.",
           "verified": true,
-          "amplification": "Source doc gives '115,000 Jews in The Netherlands' and '85,000 lived in Amsterdam' — the standard figures from Anne Frank House, USHMM and the Dutch Institute for War, Holocaust and Genocide Studies (NIOD) are ~140,000 in NL and ~79,000 in Amsterdam in 1941. The 115,000 figure may exclude the ~25,000 German and Austrian refugees who arrived in the 1930s — but if so it should be ~110,000-115,000 'native' Dutch Jews; the Frank family is one of the refugee families and they are usually counted within the 140,000. Roughly 75% — 102,000 — were murdered, the highest proportion of any country in Western Europe.",
+          "amplification": "The 75% murder rate was produced not by occupiers alone but by a Dutch civil service that registered the names, a city government that mapped the addresses, a railway that ran the trains to Westerbork, and a population that, with notable exceptions, watched. The Dutch state apologised for this in 2020. The Dutch railways paid restitution in 2019.",
           "sources": [
             {
               "title": "Anne Frank House — Netherlands: greatest number of Jewish victims in Western Europe",
@@ -2424,19 +2424,105 @@
               "url": "https://encyclopedia.ushmm.org/content/en/article/amsterdam"
             },
             {
-              "title": "Wikipedia: The Holocaust in the Netherlands",
-              "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_the_Netherlands"
+              "title": "NIOD Institute for War, Holocaust and Genocide Studies",
+              "url": "https://www.niod.nl/en"
             }
           ]
         },
         {
-          "claim": "About 24,000-25,000 German and Austrian Jews fled to the Netherlands during the 1930s.",
+          "claim": "About 24,000–25,000 German and Austrian Jews fled to the Netherlands during the 1930s, seeking refuge from Nazi persecution.",
           "verified": true,
-          "amplification": "Source doc says ~25,000 — accurate. The Frank family arrived in 1933-34 from Frankfurt.",
+          "amplification": "The Frank family was among them, arriving in 1933–34 from Frankfurt. Most of these refugees were ultimately deported and murdered from the country that had taken them in.",
           "sources": [
             {
               "title": "USHMM — Amsterdam",
               "url": "https://encyclopedia.ushmm.org/content/en/article/amsterdam"
+            }
+          ]
+        },
+        {
+          "claim": "About 245 Dutch Sinti and Roma were deported via Westerbork; some 221 were murdered. The Names Monument at Stop 16 lists 220 of them alongside the Jewish victims.",
+          "verified": true,
+          "amplification": "The Sinti and Roma had lived in the Netherlands for centuries. The genocide is known in Romani as the Porajmos — 'the devouring.' Across Nazi-occupied Europe an estimated 250,000–500,000 Sinti and Roma were murdered. Memorialisation outside Roma communities themselves remains rare; the Dutch Names Monument is one of the few major Holocaust memorials worldwide that names them alongside the Jewish dead.",
+          "sources": [
+            {
+              "title": "USHMM — Genocide of European Roma (Gypsies)",
+              "url": "https://encyclopedia.ushmm.org/content/en/article/genocide-of-european-roma-gypsies-1939-1945"
+            },
+            {
+              "title": "Names Monument — Holocaust Namenmonument Nederland",
+              "url": "https://www.holocaustnamenmonument.nl/en"
+            }
+          ]
+        },
+        {
+          "claim": "Dutch gay men were persecuted under the same Nazi laws (Paragraph 175) used in Germany. At least 100 are documented as deported to camps; many did not survive.",
+          "verified": true,
+          "amplification": "The Homomonument at Stop 1, designed by Karin Daan and unveiled on 5 September 1987, was the world's first major public monument to commemorate gay men and lesbians persecuted under Nazi rule and other regimes. Its three pink granite triangles quote the badge that camp inmates were forced to wear.",
+          "sources": [
+            {
+              "title": "Homomonument",
+              "url": "https://www.amsterdam.info/monuments/homomonument/"
+            },
+            {
+              "title": "USHMM — Persecution of homosexuals in the Third Reich",
+              "url": "https://encyclopedia.ushmm.org/content/en/article/persecution-of-homosexuals-in-the-third-reich"
+            }
+          ]
+        },
+        {
+          "claim": "More than 10,000 Dutch resistance members, communists, socialists, and political prisoners were killed by the occupiers — many executed at the dunes near Overveen, near Bloemendaal.",
+          "verified": true,
+          "amplification": "The Population Register attack of 27 March 1943 (Stop 12) was led by Willem Arondeus, an openly gay artist and writer who told his lawyer before his execution: 'Tell the people that homosexuals are not cowards.' He and 11 of his 14 fellow attackers were shot at the Overveen dunes on 1 July 1943.",
+          "sources": [
+            {
+              "title": "Verzetsmuseum Amsterdam",
+              "url": "https://www.verzetsmuseum.org/en"
+            },
+            {
+              "title": "Eerebegraafplaats Bloemendaal",
+              "url": "https://www.eerebegraafplaats.nl/"
+            }
+          ]
+        },
+        {
+          "claim": "About 600,000 Dutch men were sent to Germany as forced labourers under the Arbeitseinsatz; some 30,000 died there.",
+          "verified": true,
+          "amplification": "From 1942 onward the occupation systematically deported able-bodied Dutch men to factories and farms in Germany. Many young men went into hiding (onderduiken) to escape it; those caught were sent regardless. The hiding of resisters and labour evaders alongside Jewish refugees made every Dutch hiding place — including the Frank family's annex — a multi-victim space.",
+          "sources": [
+            {
+              "title": "NIOD — Dwangarbeid",
+              "url": "https://www.niod.nl/en"
+            },
+            {
+              "title": "Wikipedia — Forced labour under German rule during World War II",
+              "url": "https://en.wikipedia.org/wiki/Forced_labour_under_German_rule_during_World_War_II"
+            }
+          ]
+        },
+        {
+          "claim": "About 20,000 Dutch civilians died of starvation in the Hunger Winter of 1944–45 — the deliberate German blockade of food and fuel to the western Netherlands after the failed Operation Market Garden.",
+          "verified": true,
+          "amplification": "The Hunger Winter killed civilians who had survived four years of occupation by months. The black wood used to heat the freezing population that winter was, in part, taken from the upper galleries of the Great Synagogue (Stop 9), whose Jewish congregation had already been deported.",
+          "sources": [
+            {
+              "title": "Anne Frank House — Hunger Winter",
+              "url": "https://www.annefrank.org/en/anne-frank/go-in-depth/hunger-winter-1944-1945/"
+            }
+          ]
+        },
+        {
+          "claim": "In the Dutch East Indies (present-day Indonesia), about 13,000 Dutch civilians died in Japanese internment camps; an unknown number of Indonesian civilians died under occupation. The twelfth urn at the National Monument on the Dam (Stop 3) holds soil from the Indies in their memory.",
+          "verified": true,
+          "amplification": "The Dutch East Indies were occupied by Japan from March 1942 until August 1945. Dutch civilians (including Dutch Jews who had escaped Europe) were interned in camps where many died of starvation, disease, and forced labour. Indonesia declared independence two days after the Japanese surrender. The National Monument's twelfth urn deliberately gathers victims of the Atlantic and Pacific theatres of the same war.",
+          "sources": [
+            {
+              "title": "Nationaal Comité 4 en 5 mei",
+              "url": "https://www.4en5mei.nl/herdenken-en-vieren/nationaal-monument-op-de-dam"
+            },
+            {
+              "title": "USHMM — Japanese occupation of the Dutch East Indies",
+              "url": "https://encyclopedia.ushmm.org/content/en/article/dutch-east-indies"
             }
           ]
         }
